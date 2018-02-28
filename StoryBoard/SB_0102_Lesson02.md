@@ -1,9 +1,12 @@
 # Tongue Plus MR 1-40-2  蛋糕里的秘密
 * 本课简介：你将认识一位新朋友——Helen妹妹，和你一起为神秘朋友准备生日蛋糕，却发现了一张神秘的地图，还有一位老朋友会出现哦…..
+* (今天你将认识一位新朋友，你和她一起为神秘朋友准备生日蛋糕，完成超难的蛋糕任务后，你才能有机会得到一张神秘的地图…..)
 
-* 场景：加糖小镇街头甜品店，店名：蛋糕公主  Princess of cake
+
+* 场景：加糖小镇街头甜品店
+(店名：蛋糕公主  Princess of cake
 甜品店，周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料；一排货架上是各种蛋糕原料：鸡蛋，面粉，蜂蜜，牛奶，打蛋器，起司，打奶器， 托盘
-操作桌后面有烤箱等工具
+操作桌后面有烤箱等工具)
 
 
 NPC(Non Player Character)：无
@@ -192,9 +195,10 @@ T : Look at the trees over there, it looks very beautiful. Let’s go there next
 * Ten
 * Eleven
 * Twelve
-* backpack
-* bathroom
-* chair
+
+* backpack?
+* bathroom?
+* chair?
 * cheese
 * dad
 * dentist
