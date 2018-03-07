@@ -28,7 +28,7 @@ MR剧本第一集第三版
 学生：yes
 老师：here you go
 所有的蝴蝶都绕着她飞，有一只还停在了手柄上了，她可以仔细观察，也可以放飞，做互动 1
-学生：wow
+学生：waaaa
 老师：wow （夸张的动作4－ 夸张的大笑，良好的互动） (这里太夸张了，因为学生通常情况第一次见陌生人会比较腼腆，建议改为自然的方式来呈现，比如wow,不用大笑)
 
 老师：let’s go into the shop, we are going to buy gift, come on
@@ -90,7 +90,7 @@ Step（7）：老师先演示如何收拾礼物
 教学动作：
 NPC（小仙女）:（打个哈欠，伸个懒腰，开始用打扫礼品店 互动3 ，背对学生和老师并且不理睬）
 老师：hey, hey, there, we want to buy some  gifts（夸张的动作7－夸张的表演）
-老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn't like me, maybe she likes the polite child   （夸张的动作9--比笑的动作）
+老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn‘t like me, maybe she likes the polite child   （夸张的动作9--比笑的动作）
 仙女对老师做敲打，棒子敲打等夸张动作，不喜欢他（动画部分 4）
 老师：I will try again ,.I will show you.Hi fairy,you look so pretty.I like your dress 
 NPC转身，热情回应 动画5 

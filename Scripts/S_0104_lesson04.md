@@ -53,23 +53,12 @@ Round 02 : little sister, grandma, father. (with nameplate)
 Round 03 : brother, grandpa, mother, father. (without nameplate)
 Round 04 : little sister, grandma, mother. (without nameplate)
 
-
-## 自由对话 ： 
-* Who is this?
-* How old is him?
-* How old is her?
-* Is him old？
-* Is her old?
-
 Tom: 哈哈，今天不是他们的生日，其实今天生日的主角是：地球！
 Helen: 地球的生日？
 老师对学生：啊，你相信是地球的生日吗？
 
 Tom: 每年4月22日，是世界地球日，我们地球卫士把这一天作为地球的生日
-Tom: 我们到起居室一起聊聊。
-Tom: 喝茶还是咖啡？
-Tom: 我们来看电视
-
+（播放世界地球日的视频）
 
 #视频 : 播放世界地球日的视频
 
@@ -84,9 +73,9 @@ Tom: 世界地球日也是“地球卫士”的新队员入队之日，如果你
 
 >学生配对卡片
 
-砍伐森林——荒漠化
-白色垃圾——海洋动物死亡
-汽车尾气排放——大气污染
+Round 01: 砍伐森林——荒漠化
+Round 02: 白色垃圾——海洋动物死亡
+Round 03: 汽车尾气排放——大气污染
 
 Tom: 你们真棒！欢迎你们成为地球卫士，我们将一起保护地球！
 Helen：好耶！我们都是地球卫士！
@@ -96,28 +85,29 @@ Tom: One Earth, One dream
 Helen: One Earth, One dream
 学生: One Earth, One dream (老师引导学生：: One Earth, One dream)
 Helen:让我们一起为地球唱生日歌吧！
-
-### 动画01：生日蛋糕点起蜡烛，环境灯光变暗，老师带领学生一起唱生日歌，然后一起吹蜡烛，老师触发蜡烛熄灭。）
+\生日蛋糕点起蜡烛，环境灯光变暗，老师带领学生一起唱生日歌，然后一起吹蜡烛，老师触发蜡烛熄灭。）
 Tom: 我们马上就有新的任务了，准备好了吗？
 Helen: 准备好了！
 老师引导学生：准备好了！下节课见！
 
 ## 复习
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* mom
+* grandfather
+* grandmother
+* brother
+* little sister
+* dad
+* seven
+* eight
+* old
+* coffee
+* Tea
+* living room
+* TV
+* This is my brother.
+* This is my sister.
+* How old is he?
+* How old is she?
+* She is nine.
 
 
