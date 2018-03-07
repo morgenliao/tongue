@@ -26,11 +26,10 @@
 
 
 NPC(Non Player Character)：无
-关键物品：门钟
-幕（Act）：数数直到面包店开门为止
+关键物品：取消
 预设：关着门的面包店, 15秒后开门，老师与学生一起倒数读秒直到面包店开门
 故事进程：简单的问候—介绍面包店
-教学行为;倒数读秒
+教学行为：引导学生描述形状、颜色
 内容：
 
 远景：加糖小镇
@@ -41,12 +40,17 @@ NPC(Non Player Character)：无
 场景01: Entrance Stage
 
 地图 :初始地图
-
+### 对话01
 T：Good morning，`What's you name？`
 S：`My name is ***.`
 T：My name is ***. `How old are you?`
 S：`I am ***`
-T: Today, we are going to make cakes. And I also want to introduce a new friend to you. Guess, who will I introduce to you, a boy, or a girl?
+T: Today, we are going to make cakes. Look at there, there is a `big` cake. Say cake.
+S: Cake.
+T: Do you like cakes?
+S: ....
+T: Look, here are many cake. 
+T: And I also want to introduce a new friend to you. Guess, who will I introduce to you, a boy, or a girl?
 S: Boy/Girl
 T: Ah, she is a little girl, let’s go and see her.
 
@@ -55,13 +59,13 @@ T: Ah, she is a little girl, let’s go and see her.
 * 场景02:面包店门前
 
 地图 :面包店
-### 对话01:
-T: Oh, no. The bakery is not open. Jake, what’s the number on the door?
-S: 15.
-T: Oh, look it’s 14 now. And then?
-S: 13.
+### 对话02
+T: Oh, no. The bakery is not open. Jake, What’s on the door?
+S: ...
+T: Oh, We need to wait a while till it open.
+(time start to count down)
+S: ...
 T: Yes and ...
- (count with the student from 15 to 0)
 T: Bingo! The door is open now. Let’s have a look into the bakery.
 
 ### 动画01: 视觉特效01 :在闪光特效中门打开
@@ -71,8 +75,8 @@ T: Bingo! The door is open now. Let’s have a look into the bakery.
 任务01 （4分钟）
 NPC(Non Player Character)：Helen
 关键物品：>魔法棒
-剧情：帮助Helen用魔法棒来携带物品
-预设：海伦把鸡蛋放到架子上，学生需数数然后说出：“Ok, now in time”
+剧情：帮助Helen用魔法棒来摆放物品
+预设：海伦把蛋糕放到架子上，学生需数数然后说出：“Ok, now”
 故事进程：简单的问候-介绍面包店
 教学行为：数字运用
 
@@ -82,29 +86,31 @@ NPC(Non Player Character)：Helen
 
 T : Hi, Helen, how are you?
 H : Fine, thanks.
-T : This is Helen. ( prompt: introduce Helen to Student )
+T : This is Helen. (prompt: introduce Helen to Student)
 H : My name is Helen. I’m 7 years old. How about you?
 S : My name is Jake, I am 7 years old too.
+H : I like
 T : So, Helen, what are you doing now?
 H : I am doing a very important job. You see, I am using magic to move the eggs to the shelf. I need your help.
 
 
 任务 1-1
-Helen:当我用魔法将鸡蛋挪动到架子上。我们一起来数数吧，完成一个架子的数数然后你说:”Ok, now”
+Helen:当我用魔法将蛋糕挪动到烤箱架上。我们一起来数数吧，完成一个架子的数数然后你说:”Ok, now”
 Let’s try.
-游戏04：海伦向架子上挨个增加鸡蛋直到学生说出“Ok, now”
-示范局：3个
-第一局：5个
-第二局：8个
-第三局：15个
+游戏04：海伦向架子上挨个增加烤箱架直到学生说出“Ok, now”
+
+* 示范局：3个
+* 第一局：5个
+* 第二局：7个
+* 第三局：10个
 
 任务 1-2
 H: Now, Look at the cakes. What kind of color of the cakes do you like? Which color?
 H: OK，now. Can you help me to put the cakes into the cabinet? You count the numbers and then say “OK, now”
-游戏设计：海伦向架子上挨个增加鸡蛋直到学生说出“Ok, now”
-第一局：10个
-第二局：7个
-第三局：13个
+游戏设计：海伦向展示柜上挨个增加蛋糕直到学生说出“Ok, now”
+* 第一局：10个
+* 第二局：7个
+* 第三局：13个
 
 T: You are so excellent, you helped Helen a lot. Now have some cakes? Chose one cake and eat it. Taste Good?
 ( 提示:学生用手柄操作完成吃蛋糕. )
@@ -141,29 +147,41 @@ T : Jake, can you tell me what’s on the recipe?
 
 ( 提示:配方用图画显示 )
 
-S: Eggs, milk, honey, flour (option).
+S: Eggs, milk, honey, flour.
 H: That’ s right. Let me see, 2 eggs, 2 milk and 1 honey. Put the ingredients on the desk.
 T : Where is the desk?
 S : ( point or answer in sentence )
 T : What are we going to take?
-( 提示: let the student to find out the right number and ingredients as the recipes. Helen make the cake automatic, no care what did the student prepared )
+( tips: let the student to find out the right number and ingredients as the recipes. Helen make the cake automatic, no care what did the student prepared )
+不管学生的回答如何，helen都按照正确的方法制作蛋糕。
 
-H: Beat them together with your arms. Beat until he mixture is smooth. ( demonstrate how to beat the ingredients )
+Helen演示，用手臂搅拌
+H: Beat them together with your arms. Beat until the mixture is smooth. ( demonstrate how to beat the ingredients )
 H: Then put them into the oven. And turn to “bake cake”.
 .In a large bowl, beat the eggs with the sugar. Put them on the table.
+动画：在一个大碗中，搅拌鸡蛋和糖。
 .Add the honey, beat them with your arms. Beat until the mixture is smooth and creamy..
+动画：加入蜂蜜
 .Fold in three additions into the batter. Pour into pans.
+动画：将糊倒入6个孔洞的托盘中
 .Bake them in the oven.
+动画：将托盘放入烤箱
 T : Wow, a honey cake. Can you make another honey cake?
 S : Yes.
 T : What are you doing? ( prompt: let the student have a free talk about what is him/her doing like :
 What kind of things we need to prepare?
 How many eggs? )
 
+
+
+
 游戏：
-第一局：honey cake
-第二局：Chocolate Cake
-第三局：Chess Cake
+第一局：honey cake （自动设置时间3）
+recipe: 1 honey, 2 eggs, 1 flour,2 milk
+第二局：Chocolate Cake （手动设置时间6）（不过是否正确，均由老师设置正确时间，下一步）
+recipe: 1 Chocolate,2 eggs,2 flour, 1 milk 
+第三局：Cheese Cake   （手动设置时间4，需要老师帮助找到蛋糕。
+recipe: 2 Cheese, 2 eggs, 2 flour, 1 milk
 
 情节: There is no chess, the student can't finish to make Cake. The teacher need to help him/her.
 
@@ -172,10 +190,6 @@ S: I can't find the chess.
 T: Is this the chess?
 S: Yes, it is.
 T: Here you are, you can use to make your cake.
-
-第四局：生日蛋糕
-
-H : Oh, we have make the Birthday Cake, can you write the words as the card shown onto the Cake?
 
 
 自由聊天01
