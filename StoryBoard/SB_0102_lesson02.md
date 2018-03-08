@@ -49,7 +49,10 @@ T: Today, we are going to make cakes. Look at there, there is a `big` cake. Say 
 S: Cake.
 T: Do you like cakes?
 S: ....
-T: Look, here are many cake. 
+T: Look, here are many cakes. 
+
+<按键01>
+
 T: And I also want to introduce a new friend to you. Guess, who will I introduce to you, a boy, or a girl?
 S: Boy/Girl
 T: Ah, she is a little girl, let’s go and see her.
@@ -95,7 +98,7 @@ H : I am doing a very important job. You see, I am using magic to move the eggs 
 
 
 任务 1-1
-Helen:当我用魔法将蛋糕挪动到烤箱架上。我们一起来数数吧，完成一个架子的数数然后你说:”Ok, now”
+Helen:当我用魔法将蛋糕挪动到展示柜上。我们一起来数数吧，完成一个架子的数数然后你说:”Ok, now”
 Let’s try.
 游戏04：海伦向架子上挨个增加烤箱架直到学生说出“Ok, now”
 
