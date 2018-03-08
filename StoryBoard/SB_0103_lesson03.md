@@ -58,18 +58,25 @@ Helen: 哇，这里好美啊！看看这里有些什么呢？
 Helen: 这里好像有什么不对吧，宝宝没有找到自己的家！（场景里面，动物妈妈和宝宝是错乱的）
 Helen: 让我们来帮助他们找到自己的家，好吗？
 ### 游戏05: Pick and Say
-Helen：我想想，青蛙（发音）应该在水边，小鸟宝宝应该在树上的鸟巢……（Helen用手指着后，物体回到正确的位置）。你来帮帮我好吗？
-老师对学生：你来帮助他们找到自己的家，好吗？
-游戏环节: 学生用手柄选择物体，说出物体的正确的读音，即可将物体移动到正确的位置
+小鸟妈妈飞到面前，小鸟妈妈说：I have lost my kids, can you help me to find them?
+老师对学生: Use your magic stick to help the bird to find her kid, will you?
+游戏环节: 学生用魔法棒，找到小鸟，扣动扳机，金星飞出，当击中远处的小鸟以后，小鸟变到魔法棒顶端。
 老师引导学生多次重复游戏 最后，所有动物都正确归位
 Helen: 我们来玩个游戏，找出相似的动物放在一起。就像这样: 会游泳的动物是：青蛙，鱼….（Helen指着这些动物，放到水边）
 老师：哇，真好玩！
 老师对学生说：你来试试吧？
 
-Round 0 Demo:把小鸟放到巢穴里
-Round 1     : ???  
-Round 2     : ??? 
-Round 3     : ???
+![](.SB_0103_lesson03_images\031.png)
+Round 0 Demo:找到小鸟
+Round 1     :找到猫，观察猫  2 kids
+Round 2     :找到青蛙，观察青蛙（青蛙会躲在周边颜色相近的地方）, 3 kids
+Round 3     :找到兔子，观察兔子(小兔子会探头，会躲在洞里，不能一下子全部看到) 5 kids.
+
+How many kids do the frog have?
+What's the color of the bird?
+How many legs of the bird?
+
+
 
 
 ### 游戏x08 : Answer the questions.
