@@ -66,25 +66,30 @@ Helen: 我们来玩个游戏，找出相似的动物放在一起。就像这样:
 老师：哇，真好玩！
 老师对学生说：你来试试吧？
 
-![](.SB_0103_lesson03_images\031.png)
-Round 0 Demo:找到小鸟
-Round 1     :找到猫，观察猫  2 kids
-Round 2     :找到青蛙，观察青蛙（青蛙会躲在周边颜色相近的地方）, 3 kids
-Round 3     :找到兔子，观察兔子(小兔子会探头，会躲在洞里，不能一下子全部看到) 5 kids.
+* ![](.SB_0103_lesson03_images\031.png)
+
+1. Round 0 Demo:找到小鸟
+
+2. Round 1     :找到猫，观察猫  （sisters and brothers)
+* ![](.SB_0103_lesson03_images\036.png)
+3. Round 2     :找到青蛙，观察青蛙（青蛙会躲在周边颜色相近的地方）, (grandpa and grandma)
+* ![](.SB_0103_lesson03_images\033.png)
+4. Round 3     :找到兔子，观察兔子(小兔子会探头，会躲在洞里，不能一下子全部看到) 5 kids.
+* ![](.SB_0103_lesson03_images\034.png)
+
+
+
+
 
 How many kids do the frog have?
 What's the color of the bird?
 How many legs of the bird?
 
-
-
-
-### 游戏x08 : Answer the questions.
-Helen（老师触发）：哪些动物是四条腿呢？（空中浮现问题和图画）
+Helen（老师触发）：这个。。有几条腿呢？（空中浮现问题和图画）
 学生:,,,,,
 (学生自有选择并发音（老师在学生选择后帮助其发音）
 )
-Helen（老师触发）：哪些动物可以飞呢？
+Helen（老师触发）：它可以飞么？
 
 ## 幕03: 遇见Tom
 #### 游戏06: go and see
@@ -95,6 +100,17 @@ Demo  00 Right then Left;
 Round 01 Left then Left;
 Round 02 Right then Left then Left;
 Round 03 Left then Right then Left;` 
+
+
+找错路了的话，路中间会有一个施工的阻隔，一只戴着安全帽的Hamster，会自我介绍：
+Hamster： Hi， I am Hamster, we are working here. You can't across the road.
+* ![](.SB_0103_lesson03_images\035.png)
+
+### Free talk:
+T: What's his name?
+T: What's him doing?
+T: What shall we do?
+** 学生如果找错路，可能会多次碰到。每次学生没有回答正确，没有关系。老师继续下一步。多次碰到以后，老师多次询问学生没有回答上的问题。促进学生自我思考，理解这段话的听力部分。
 
 学生看地图找正确的方向
 
@@ -114,7 +130,7 @@ Tom: 我在帮助森林，帮助地球。你们看看我们的地球受到的伤
 
 ### FreeTalk: 针对污染展开自由聊天
 老师对学生说：你觉得地球上哪些是被受到伤害的？（浮现出海洋、森林、冰山、动物、排污的烟囱
-S:…..( 老师引导自由交流)
+S:( 老师引导自由交流)
 Tom：我是地球卫士，你们愿意加入，一起保护地球吗？
 Helen：我愿意！
 老师：我愿意！
