@@ -44,5 +44,11 @@
 ## Game 05 Cooking 烹饪 
 * Description  : 根据菜单选择物品烹饪
 * Interact     :【虚拟手】拿取物品
-* Difficulties : 根据菜单负责程度
+* Difficulties : 根据菜单复杂程度
 * Controls     : 左右键判定正确错误
+
+## Game 06 Pick Magic 吸物魔法
+* Description  : 根据菜单选择物品烹饪
+* Interact     :【魔法棒】射出五角星，五角星碰到物品后，飞到虚拟左手。【虚拟手】拿取物品，可以给予物品。
+* Difficulties : 将物品藏在不同的地方
+* Controls     : 老师不做判断
