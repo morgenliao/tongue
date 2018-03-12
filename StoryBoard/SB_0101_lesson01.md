@@ -1,17 +1,17 @@
-MR剧本第一集第三版
-第一节课剧情旁白介绍：神秘朋友将过生日，老师带孩子到一个神秘的魔法商店选生日礼物，可能会有人来捣乱。 
-一、简述
-●目标：提高学生英语对话的能力
-●目标词汇：
-1.掌握词汇（7）：car, dog, backpack, pencil case, turtle, book、rabbit
-2.掌握词汇（7）：red、yellow、blue、green、pink、orange、purple
-3.掌握句型（5）：I can see a car/dog/backpack/pencil case/、 I want to buy、I want a Car/dog/ come here、Red/yellow/green/blue/black/pink/purple stone, help me
-4.扩展词汇（5）：stone、magic、shop、fairy、pretty、
-5.扩展句型（2）：you look so pretty、today is my friend’s birthday、
-6.技能：与生人际沟通的初级能力
-7.知识点：26个
+# MR剧本 第一集 
+## 概况
+* 版本：3.0
+* 剧情介绍：
+* 知识点：
+1. 掌握词汇（7）：car, dog, backpack, pencil case, turtle, book、rabbit
+2. 掌握词汇（7）：red、yellow、blue、green、pink、orange、purple
+3. 掌握句型（5）：I can see a car/dog/backpack/pencil case/、 I want to buy、I want a Car/dog/ come here、Red/yellow/green/blue/black/pink/purple stone, help me
+4. 扩展词汇（5）：stone、magic、shop、fairy、pretty
+5. 扩展句型（2）：you look so pretty、today is my friend’s birthday
+6. 知识点：26个
+* 技能：与生人际沟通的初级能力
 
-二、热身：（2min）
+## /* 热身：（2min）
 场景：户外、魔法商店门口
 关键物品：到处飞的蝴蝶
 目的：让学生放松，笑
@@ -19,21 +19,18 @@ MR剧本第一集第三版
 老师：hi, jack! very nice to meet you!（夸张的动作１－老师夸张的挥手）
 学生：hi
 老师：i’m jessie. your best friend. jack, the best （夸张的动作２－老师夸张的比心）比心这个动作有点怪，可以用语言表示can you say hello to jessie，保持微笑）
-
 学生：jessie
 老师：look around in here, do you see the butterflies?（夸张的动作3--手指指向学生）学生：yes（注意语气和语调，手指向蝴蝶)
-
 老师：do you like it?
-
 学生：yes
 老师：here you go
 所有的蝴蝶都绕着她飞，有一只还停在了手柄上了，她可以仔细观察，也可以放飞，做互动 1
-学生：waaaa
+学生：wow
 老师：wow （夸张的动作4－ 夸张的大笑，良好的互动） (这里太夸张了，因为学生通常情况第一次见陌生人会比较腼腆，建议改为自然的方式来呈现，比如wow,不用大笑)
-
 老师：let’s go into the shop, we are going to buy gift, come on
+*/
 
-三、复习（5min） 
+## 复习（5min） 
 场景：魔法商店
 NPC：懒惰的小仙女
 关键物品：魔法棒
@@ -42,11 +39,13 @@ NPC：懒惰的小仙女
 剧情流程：简单问候--向学生介绍乱七八糟的商店和还在睡觉的仙女--提示先帮仙女收拾商店--示范
 教学动作：认识物品，熟悉单词
 具体教学内容：
+#### Step1
 老师：Hey jack ,do you know where we are now?
 学生: I don’t know
 老师：we are at a magic gift shop now 
 老师：So, jack, follow me and say “magic gift shop”  
-学生 ：magic gift shop   （step1）
+学生 ：magic gift shop   
+#### Step2
 老师：what can you see in this magic gift shop? /can you see anything around here?/can you see a car?/how many windows can you see? （一分钟以上的自由对话）
 学生: I can see a car/dog/backpack/book/turtle/ pencil case/pen
   （一定要强调完整的句子）
@@ -90,7 +89,7 @@ Step（7）：老师先演示如何收拾礼物
 教学动作：
 NPC（小仙女）:（打个哈欠，伸个懒腰，开始用打扫礼品店 互动3 ，背对学生和老师并且不理睬）
 老师：hey, hey, there, we want to buy some  gifts（夸张的动作7－夸张的表演）
-老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn‘t like me, maybe she likes the polite child   （夸张的动作9--比笑的动作）
+老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn't like me, maybe she likes the polite child   （夸张的动作9--比笑的动作）
 仙女对老师做敲打，棒子敲打等夸张动作，不喜欢他（动画部分 4）
 老师：I will try again ,.I will show you.Hi fairy,you look so pretty.I like your dress 
 NPC转身，热情回应 动画5 

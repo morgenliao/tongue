@@ -4,7 +4,7 @@
 
 ## 幕01 : 预热
 * 地图 : 开启地图
-* 场景 :地点 01
+* 场景 : 地点 01
 
 * 物品 : 无
 * 人物 : Helen
@@ -12,12 +12,12 @@
 * 剧情 :老师唤起学生对生日礼物的记忆
 * 游戏 : 无
 
+### 对话1
 (Helen和老师、学生相互打招呼)
-Helen：今天是一个开心的日子哦！我们一起去参加一个生日Party.
+Helen：今天，我哥哥告诉我有一个特别的party，一个生日party
 Helen对学生说：我们准备的礼物在哪里呢？
 老师对学生说：还记得魔法商店和甜品店吗？我们准备了什么呢？
 学生：（老师引导学生自由对话，引出魔法商店的神秘生日礼盒，以及甜品店做的魔法蛋糕）
-
 Helen: 那让我们一起出发吧！
 老师：出发！
 学生：出发！
@@ -32,27 +32,37 @@ Helen: 那让我们一起出发吧！
 Tom: 欢迎大家，谢谢你们能来参加生日Party
 老师：Tom, 生日快乐！
 学生：Tom, 生日快乐！
-Helen: 哥哥，我记得今天不是你生日啊？！
-Tom: 哈哈，今天不是我的生日
-老师：不是？那是谁呢
-Tom：猜猜看？完成这个任务，我就会告诉你今天是谁的生日
+Tom: Thank you very much.
+T: Here is your gift. ... prepared for you.
+Tom: Oh, Thank you so much. I like them.
+Helen: Let me introduce my family to you.
+This is my grandmother, she is a farmer.
+This is my grandfather, he is a cook.
+This is my mom, she is an artist.
+This is my dad, he is a pilot.
 
-
-
+Now before the dinner, shall we play a game?
 > 游戏06: 年龄排序
 
-> Tom对学生说：你猜猜是谁的生日呢？先看看这张照片，这是我的哥哥，爸爸，妈妈，爷爷，奶奶（空中浮现出爷爷，奶奶，爸爸，妈妈，哥哥，妹妹的图片形象，和墙壁上的照片一致）
+> Tom对学生说：你猜猜是谁的生日呢？
 Tom: 你能按年龄大小来排序吗，先年龄大的，然后年龄小的
  (老师引导学生按年龄顺序排列，并读出正确的发音)
 Tom:那我们从小到大来排一次好吗？
  (老师引导学生完成)
 
-Round 00 : brother, little sister.
-Round 01 : brother, grandpa, father.(with nameplate)
-Round 02 : little sister, grandma, father. (with nameplate)
-Round 03 : brother, grandpa, mother, father. (without nameplate)
-Round 04 : little sister, grandma, mother. (without nameplate)
+Round 00 : brother, little sister. 
+Round 01 : brother, grandfather, father.(with nameplate)
+Round 02 : little sister, grandmother, father. (with nameplate)
 
+Tom: now, have a break. What do you like? Cold coffee or hot coffee?
+S: I like....
+Tom: Oh, here you are.
+Helen: Do you want to have 
+
+Round 03 : brother, grandfather, mother, father. (without nameplate)
+Round 04 : little sister, grandmother, mother. (without nameplate)
+
+> 成功了有个几个人的合影
 
 ## 自由对话 ： 
 * Who is this?
@@ -61,17 +71,15 @@ Round 04 : little sister, grandma, mother. (without nameplate)
 * Is him old？
 * Is her old?
 
-Tom: 哈哈，今天不是他们的生日，其实今天生日的主角是：地球！
-Helen: 地球的生日？
-老师对学生：啊，你相信是地球的生日吗？
+Tom：我有一个秘密，你们跟我来
 
-Tom: 每年4月22日，是世界地球日，我们地球卫士把这一天作为地球的生日
-Tom: 我们到起居室一起聊聊。
-Tom: 喝茶还是咖啡？
-Tom: 我们来看电视
+来到Tom的卧室（bedroom），挪开柜子，里面有一扇门（door）
+学生打开门，进入一个非常科幻的地下实验室。
+实验室中显示着各种数据，一起观看关于地球日的视频
 
 
-#视频 : 播放世界地球日的视频
+
+### 视频 : 播放世界地球日的视频
 
 Tom：地球遭受到极大的威胁，有个邪恶组织，名字叫“黑暗星球”，他们破坏地球的土壤，大气，海洋，森林，想让地球变成一个这样的地球（图片展示荒漠化，气候变暖等严重问题后的地球）。
 Helen: 哥哥，那地球卫士就是保护地球的吗？
@@ -97,21 +105,13 @@ Helen: One Earth, One dream
 学生: One Earth, One dream (老师引导学生：: One Earth, One dream)
 Helen:让我们一起为地球唱生日歌吧！
 
-### 动画01：生日蛋糕点起蜡烛，环境灯光变暗，老师带领学生一起唱生日歌，然后一起吹蜡烛，老师触发蜡烛熄灭。）
+
 Tom: 我们马上就有新的任务了，准备好了吗？
 Helen: 准备好了！
 老师引导学生：准备好了！下节课见！
 
 ## 复习
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
+* coffee
 * 
 * 
 * 
@@ -120,4 +120,12 @@ Helen: 准备好了！
 * 
 * 
 
+* 
+
+I have a secret. Come with me
+
+1、认识
+2、烘焙
+3、找路
+4、了解地球日，了解了环保知识
 

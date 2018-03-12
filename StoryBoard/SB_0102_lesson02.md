@@ -99,13 +99,11 @@ H : I like
 T : So, Helen, what are you doing now?
 H : I am doing a very important job. You see, I am using magic to move the eggs to the shelf. I need your help.
 
-
 任务 1-1
 * ![](.SB_0102_lesson02_images\014.png)
 Helen:当我用魔法将蛋糕挪动到展示柜上。我们一起来数数吧，完成一个架子的数数然后你说:”Ok, now”
 Let’s try.
-游戏04：海伦向架子上挨个增加蛋糕到展示柜直到学生说出“Ok, now”
-
+> 游戏04：海伦向架子上挨个增加蛋糕到展示柜直到学生说出“Ok, now”
 * 示范局：3个
 * 第一局：5个
 * 第二局：7个
@@ -125,7 +123,7 @@ T: You are so excellent, you helped Helen a lot. Now have some cakes? Chose one 
 * ![](.SB_0102_lesson02_images\015.png)
 任务 02 （4分钟）
 
-NPC(Non Player Character)：Helen
+> NPC(Non Player Character)：Helen
 关键物品 : >虚拟手<
 情节：和海伦一起做蛋糕
 预设：根据配方和海伦一起制作蛋糕
@@ -183,7 +181,7 @@ How many eggs? )
 
 
 
-游戏：
+> 游戏：
 第一局：honey cake （自动设置时间5）
 recipe: 1 honey, 2 eggs, 1 flour,2 milk
 第二局：Chocolate Cake （手动设置时间10）（不过是否正确，均由老师设置正确时间，下一步）

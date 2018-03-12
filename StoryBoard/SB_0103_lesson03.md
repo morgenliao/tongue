@@ -79,7 +79,7 @@ Helen: 我们来玩个游戏，找出相似的动物放在一起。就像这样:
 
 
 
-
+> 学生右手用魔法棒指着目标动物，射出五角星。五角星碰到目标动物，判定为找到，飞到小朋友的左手上空。
 
 How many kids do the frog have?
 What's the color of the bird?
