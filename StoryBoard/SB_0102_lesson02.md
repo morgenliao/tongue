@@ -1,16 +1,25 @@
 # Tongue Plus MR 1-40-2  蛋糕里的秘密
-* 本课简介：你将认识一位新朋友——Helen妹妹，和你一起为神秘朋友准备生日蛋糕，却发现了一张神秘的地图，还有一位老朋友会出现哦…..
-* (今天你将认识一位新朋友，你和她一起为神秘朋友准备生日蛋糕，完成超难的蛋糕任务后，你才能有机会得到一张神秘的地图…..)
+## 简介
+* 版本：v2.0
+* 剧情介绍：认识一位新朋友——Helen妹妹，和你一起为神秘朋友准备生日蛋糕，却发现了一张神秘的地图，还有一位老朋友会出现哦…..
+    (今天你将认识一位新朋友，你和她一起为神秘朋友准备生日蛋糕，完成超难的蛋糕任务后，你才能有机会得到一张神秘的地图…..)
+* 知识点：
+1. 掌握词汇（）：
+2. 掌握词汇（）：
+3. 掌握句型（）：
+4. 扩展词汇（）：
+5. 扩展句型（）：
+6. 知识点：个
+* 技能：简单的烘焙了解
 
-
-* 场景：加糖小镇街头甜品店
-(店名：蛋糕公主  Princess of cake
-甜品店，周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料；一排货架上是各种蛋糕原料：鸡蛋，面粉，蜂蜜，牛奶，打蛋器，起司，打奶器， 托盘
+## 幕 01
+* {场景}：加糖小镇街头甜品店
+(店名：蛋糕公主  Princess of cake甜品店，周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料；一排货架上是各种蛋糕原料：鸡蛋，面粉，蜂蜜，牛奶，打蛋器，起司，打奶器， 托盘
 操作桌后面有烤箱等工具)
-============
-远景：加糖小镇
-近景：Princess of Cake 烘焙店
-内景：周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料。
+
+* 远景：加糖小镇
+* 近景：Princess of Cake 烘焙店
+* 内景：周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料。
 
 模型：
 * 鸡蛋
@@ -42,7 +51,7 @@ NPC(Non Player Character)：无
 地图 :初始地图
 
 ![](.SB_0102_lesson02_images\011.png)
-### 对话01
+### <对话 01>
 T：Good morning，`What's you name？`
 S：`My name is ***.`
 T：My name is ***. `How old are you?`
@@ -53,7 +62,7 @@ T: Do you like cakes?
 S: ....
 T: Look, here are many cakes. 
 
-<交互 01>
+### <交互 01>
 * ![](.SB_0102_lesson02_images\012.png)
 
 T: And I also want to introduce a new friend to you. Guess, who will I introduce to you, a boy, or a girl?
@@ -65,11 +74,13 @@ T: Ah, she is a little girl, let’s go and see her.
 * 场景02:面包店门前
 * ![](.SB_0102_lesson02_images\013.png)
 地图 :面包店
-### 对话02
+### <对话 02>
 T: Oh, no. The bakery is not open. Jake, What’s on the door?
 S: ...
 T: Oh, We need to wait a while till it open.
-(time start to count down)
+### <交互 02> 
+> (time start to count down)
+
 S: ...
 T: Yes and ...
 T: Bingo! The door is open now. Let’s have a look into the bakery.
@@ -180,14 +191,13 @@ How many eggs? )
 
 
 
-
-> 游戏：
-第一局：honey cake （自动设置时间5）
-recipe: 1 honey, 2 eggs, 1 flour,2 milk
-第二局：Chocolate Cake （手动设置时间10）（不过是否正确，均由老师设置正确时间，下一步）
-recipe: 1 Chocolate,2 eggs,2 flour, 1 milk 
-第三局：Cheese Cake   （手动设置时间15，需要老师帮助找到cheese。
-recipe: 2 Cheese, 2 eggs, 2 flour, 1 milk
+### 游戏：
+> 第一局：honey cake （自动设置时间5）
+  recipe: 1 honey, 2 eggs, 1 flour,2 milk
+  第二局：Chocolate Cake （手动设置时间10）（不过是否正确，均由老师设置正确时间，下一步）
+  recipe: 1 Chocolate,2 eggs,2 flour, 1 milk 
+  第三局：Cheese Cake   （手动设置时间15，需要老师帮助找到cheese。
+  recipe: 2 Cheese, 2 eggs, 2 flour, 1 milk
 
 情节: There is no chess, the student can't finish to make Cake. The teacher need to help him/her.
 

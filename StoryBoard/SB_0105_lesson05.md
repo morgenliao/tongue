@@ -1,75 +1,15 @@
-## Vocabulary
-* zero
-* one
-* Two
-* Three
-* Four
-* Five
-* Six
-* Seven
-* Eight
-* Nine
-* Ten
-* Eleven
-* Twelve
-* backpack
-* bathroom
-* chair
-* cheese
-* dad
-* dentist
-* desk
-* arms
-* big
-* What's you name
-* My name is Millie
-* How old are you?
-* I am seven
-* I have a green tail.
-* I have green arms.
-map
-card
-cake
-honey
-* 红色是原定的知识点，本集被去掉
-* 蓝色是新增的知识点，不在原1-5课的知识点中
-* 黄色是新增的知识点，属于原第3课中的知识点
-
-
 # Tongue Plus MR 1-40-2蛋糕里的秘密
-
-角色介绍
-Helen：
-名字：Helen ，妹妹，虚拟主人公，主要角色，6岁左右，动物对标？（狗？）
-人格特征：可爱，善良，爱玩，小冒失，萌，顺其自然，追求美好事物，参照角色（樱桃小丸子性格）
-爱好：喜欢唱歌，
-技能：喜欢做实验
-伙伴：
-最喜欢的食物：甜品，巧克力
-最喜欢说的话：“好棒！”；“我想试试”；
-最喜欢的颜色：翠绿色
-
-Tom:
-哥哥，虚拟主人公之一，次要角色，9岁孩童左右， 动物对标？（狗？）
-人格特征：逞能，英雄主义，冲动，有领导力，有逆反心，乐观
-爱好：汽车，兵器，街舞，
-技能：力气大，善于机械
-伙伴：
-最喜欢的食物：烤肠，汉堡
-最喜欢说的话：“我不怕！”；“让我来！”
-最喜欢的颜色：天蓝色
-
-Tina：
-小仙女，虚拟角色，具有魔法
-人格特征：慵懒，可爱，时尚
-爱好：睡觉，调皮，睡觉呼噜声像长笛声
-技能：魔法棒能移动物体，将物体变形
-最喜欢的食物：露珠
-最喜欢说的话：“我想睡觉了”；“再等等吧“
-最喜欢的颜色：紫色
-
-
-
+## 概况
+* 版本：3.0
+* 剧情介绍：
+* 知识点：
+1. 掌握词汇（7）：car, dog, backpack, pencil case, turtle, book、rabbit
+2. 掌握词汇（7）：red、yellow、blue、green、pink、orange、purple
+3. 掌握句型（5）：I can see a car/dog/backpack/pencil case/、 I want to buy、I want a Car/dog/ come here、Red/yellow/green/blue/black/pink/purple stone, help me
+4. 扩展词汇（5）：stone、magic、shop、fairy、pretty
+5. 扩展句型（2）：you look so pretty、today is my friend’s birthday
+6. 知识点：26个
+* 技能：与生人际沟通的初级能力
 
 # Tongue Plus MR 1-40-2  蛋糕里的秘密
 

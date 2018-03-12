@@ -1,0 +1,14 @@
+@startuml
+
+package "模型" {
+[car]
+[dog]
+[backpack]
+[pencil case]
+[turtle]
+[book]
+[rabbit]
+[stone]
+}
+
+@enduml

@@ -1,34 +1,67 @@
-# MR剧本 第一集 
+### 人物列表
+*  学生
+*  老师
+*  仙女Tina
+
+### 事件清单
+*  仙女睡觉
+*  仙女讨厌不礼貌的交谈
+*  女巫捣蛋
+
+### 任务清单
+*  整理房间
+*  礼貌交谈
+*  购买物品
+*  破冰魔法
+
+### 游戏清单
+*  Point and Say
+*  Get power
+
+### 模型清单
+*  car
+*  dog
+*  backpack
+*  pencil case
+*  turtle
+*  book
+*  rabbit
+*  stone
+
+# # Tongue Plus MR 1-40-2 第一集 
 ## 概况
-* 版本：3.0
+* 版本：v3.0
 * 剧情介绍：
-* 知识点：
+* 知识点(26：
 1. 掌握词汇（7）：car, dog, backpack, pencil case, turtle, book、rabbit
 2. 掌握词汇（7）：red、yellow、blue、green、pink、orange、purple
 3. 掌握句型（5）：I can see a car/dog/backpack/pencil case/、 I want to buy、I want a Car/dog/ come here、Red/yellow/green/blue/black/pink/purple stone, help me
 4. 扩展词汇（5）：stone、magic、shop、fairy、pretty
 5. 扩展句型（2）：you look so pretty、today is my friend’s birthday
 6. 知识点：26个
-* 技能：与生人际沟通的初级能力
+* 技能：初级人际沟通能力
 
-## /* 热身：（2min）
-场景：户外、魔法商店门口
-关键物品：到处飞的蝴蝶
-目的：让学生放松，笑
+![](.SB_0101_lesson01_images\090.png)
+
+## 热身：（2min）
+* 场景：户外、魔法商店门口
+* 关键物品：到处飞的蝴蝶
+* 目的：让学生放松，笑
 具体教学内容：
-老师：hi, jack! very nice to meet you!（夸张的动作１－老师夸张的挥手）
-学生：hi
-老师：i’m jessie. your best friend. jack, the best （夸张的动作２－老师夸张的比心）比心这个动作有点怪，可以用语言表示can you say hello to jessie，保持微笑）
-学生：jessie
-老师：look around in here, do you see the butterflies?（夸张的动作3--手指指向学生）学生：yes（注意语气和语调，手指向蝴蝶)
-老师：do you like it?
-学生：yes
-老师：here you go
-所有的蝴蝶都绕着她飞，有一只还停在了手柄上了，她可以仔细观察，也可以放飞，做互动 1
-学生：wow
-老师：wow （夸张的动作4－ 夸张的大笑，良好的互动） (这里太夸张了，因为学生通常情况第一次见陌生人会比较腼腆，建议改为自然的方式来呈现，比如wow,不用大笑)
-老师：let’s go into the shop, we are going to buy gift, come on
-*/
+#### Step1
+老师：hi, jack! very nice to meet you!（夸张的动作１－老师夸张的挥手）  
+学生：hi  
+老师：i’m jessie. your best friend. jack, the best （夸张的动作２－老师夸张的比心）比心这个动作有点怪，可以用语言表示can you say hello to jessie，保持微笑）  
+学生：jessie  
+老师：look around in here, do you see the butterflies?（夸张的动作3--手指指向学生）学生：yes（注意语气和语调，手指向蝴蝶)  
+老师：do you like it?  
+学生：yes  
+老师：here you go  
+所有的蝴蝶都绕着她飞，有一只还停在了手柄上了，她可以仔细观察，也可以放飞，做<互动 01>  
+学生：wow  
+老师：wow （夸张的动作4－ 夸张的大笑，良好的互动） (这里太夸张了，因为学生通常情况第一次见陌生人会比较腼腆，建议改为自然的方式来呈现，比如wow,不用大笑)  
+老师：let’s go into the shop, we are going to buy gift, come on.  
+
 
 ## 复习（5min） 
 场景：魔法商店
@@ -38,7 +71,7 @@ NPC：懒惰的小仙女
 预设：乱七八糟的商店，还在睡懒觉的小仙女店长，礼物散落一地，无法购物。
 剧情流程：简单问候--向学生介绍乱七八糟的商店和还在睡觉的仙女--提示先帮仙女收拾商店--示范
 教学动作：认识物品，熟悉单词
-具体教学内容：
+### 具体教学内容：
 #### Step1
 老师：Hey jack ,do you know where we are now?
 学生: I don’t know
@@ -52,46 +85,54 @@ NPC：懒惰的小仙女
 老师：what color is / car/dog/frog/book/chocolate/ pencil case/pen?
   （增加颜色单词的输出）
 学生：it’s  yellow/blue/green/pink/orange/purple
-老师:Very good, jack（step2）
+老师:Very good, jack
+#### Step3
 老师:So, jack ,do you have any idea what are we going to do here today?, you know?
 学生: I don’t know
 老师: ok, Today, we are going to buy some birthday gifts for your special friend. ok? 
-学生：OK（step3）
-老师: Very good. jack. it’s too messy here, The gifts are everywhere. oh, do you see  a sleeping girl? shush[嘘] be quiet.                                                                                                                                                                                                                                                  (看到散落一地的礼品，导致无法购物,老师直挠头，并耸耸肩表，表演得非常焦急和没办法，要逗笑学生) what can we do? tell me
+学生：OK
+#### Step4
+老师: Very good. jack. it’s too messy here, The gifts are everywhere. oh, do you see  a sleeping girl? shush[嘘] be quiet.(看到散落一地的礼品，导致无法购物,老师直挠头，并耸耸肩表，表演得非常焦急和没办法，要逗笑学生) what can we do? tell me
 小声的喊: hello, hello, hello，表现得很无奈  夸张的动作5
 or, i have an idea, let’s help her clean up here, can you give me a hand ?(夸张的动作6－作出捡东西的动作引导)
-学生: yes.（老师鼓励，练习开始）（step4）
+学生: yes.（老师鼓励，练习开始）
+#### Step5
 老师:  can you see a magic stick here?
 学生：I don’t know
 老师：it’s a magic stick. Follow me and say magic stick
-学生：magic stick （交互1:学生说对魔法棒单词，老师操作“Enter”键，魔法飞向学生手柄，魔法棒替换手柄） （step5）
+学生：magic stick （交互1:学生说对魔法棒单词，老师操作“Enter”键，魔法飞向学生手柄，魔法棒替换手柄） 
+#### Step6
 老师：can you see a car/dog/backpack/pencil case/?
 学生：yes
 老师：can you repeat after me，car/dog/backpack/pencil case/? 
-学生：car/dog/backpack/pencil case/? (交互2：学生说出正确的单词，老师点击enter键，物品呈现边缘高亮状态) （step6）
-Step（7）：老师先演示如何收拾礼物
+学生：car/dog/backpack/pencil case/? (交互2：学生说出正确的单词，老师点击enter键，物品呈现边缘高亮状态)
+#### Step7
+老师先演示如何收拾礼物
 老师：Now point the magic stick at the gift and say car go there and the car will go back to the shop window.see,Now you can have a try） (场景描述：老师演示完 car,go there,汽车回到商品展示柜上，老师交互：按next：小汽车回到商品展示柜) 把魔法棒拿到手上去指物品（交互1---之前一直是锁住，到了这一步才解锁）
 8.学生:car/dog/frog/book/pencil case/pen，go there. (场景描述：老师指导完学生开始念出商品名称，等待学生发出指令) 
-老师：good job, jack（step8）
+老师：good job, jack
 
 
 
 
-游戏流程：橱窗分格，数量与礼物数量对应，橱窗上有礼物照片、从地上拿起魔法棒对着礼品喊口令：喊礼物名称+come here+物品选种发光，礼品会回到对应的位置
-需要收拾的橱窗及单词发光 互动2；说出 “car, go there”，则car来到学生面前，然后回到橱窗，说错单词则不发生判定；依次进行。（今天具体模课中）
+### Game 01 游戏
+> 橱窗分格，数量与礼物数量对应，橱窗上有礼物照片、从地上拿起魔法棒对着礼品喊口令：喊礼物名称+come here+物品选种发光，礼品会回到对应的位置
+  需要收拾的橱窗及单词发光 互动2；说出 “car, go there”，则car来到学生面前，然后回到橱窗，说错单词则不发生判定；依次进行。(morgan:  编程未能实现)
 
-四、练习（8min）
-（1）引导学生完成收拾商店的游戏。
-（2）完成后，触发小仙女睡醒，开始购买流程。 
-主线：购买礼物
-预设：整齐的商店，小仙女醒来，开始购物
-剧情流程：告诉学生可以开始购物了，并示范游戏流程：引导学生说“I want a....”，则小仙女挥舞魔法棒，橱窗里礼物消失，来到孩子脚边的礼品盒（预制）
-教学动作：
+## 练习 （8min）
+* 引导学生完成收拾商店的游戏。
+* 完成后，触发小仙女睡醒，开始购买流程。 
+* 主线：购买礼物
+* 预设：整齐的商店，小仙女醒来，开始购物
+* 剧情流程：告诉学生可以开始购物了，并示范游戏流程：引导学生说“I want a....”，则小仙女挥舞魔法棒，橱窗里礼物消失，来到孩子脚边的礼品盒（预制）
+### 教学动作：
+#### Step1
 NPC（小仙女）:（打个哈欠，伸个懒腰，开始用打扫礼品店 互动3 ，背对学生和老师并且不理睬）
 老师：hey, hey, there, we want to buy some  gifts（夸张的动作7－夸张的表演）
-老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn't like me, maybe she likes the polite child   （夸张的动作9--比笑的动作）
-仙女对老师做敲打，棒子敲打等夸张动作，不喜欢他（动画部分 4）
-老师：I will try again ,.I will show you.Hi fairy,you look so pretty.I like your dress 
+老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn't like me, maybe she likes the polite child   （夸张的动作9--搞笑的动作）
+仙女对老师做敲打，棒子敲打等夸张动作，不喜欢他（动画 4）
+
+？？？（老师：I will try again ,.I will show you.Hi fairy,you look so pretty.I like your dress 
 NPC转身，热情回应 动画5 
 老师：I want to buy some gifts  
 NPC: oh hi, That’s very sweet of you.you look pretty too Welcome to the Magic Gift shop. How can I help you?  
@@ -100,7 +141,8 @@ NPC：Oh, birthday gifts. Okay, what gift do you want
 老师：I want to buy a car 
 NPC:one coin please 
 老师：here you are 
-NPC:ok as you wish
+NPC:ok as you wish）
+
 老师：Hi jack,you can have a try. Do you know what to say to fairy?  
 学生：Hi,fairy,today is my friend’s birthday I want to buy gifts for her
 NPC：Oh, birthday gifts. Okay, what gift do you want?
@@ -165,7 +207,3 @@ NPC: Don’t worry. I have an idea. We can use the stones to help us. Let me sho
 神秘人物的生日礼品盒动画 8
 老师 All right. I think your friend will be very happy too.
 老师：We are going to buy some cakes for the next time. Hope you will enjoy it. So see you next time jack. I’m Jessie see you, bye  bye
-老师预告下一次做蛋糕。
-
-
- 
