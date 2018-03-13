@@ -32,7 +32,7 @@
 ## 概况
 * 版本：v3.0
 * 剧情介绍：
-* 知识点(26：
+* 知识点（26）：
 1. 掌握词汇（7）：car, dog, backpack, pencil case, turtle, book、rabbit
 2. 掌握词汇（7）：red、yellow、blue、green、pink、orange、purple
 3. 掌握句型（5）：I can see a car/dog/backpack/pencil case/、 I want to buy、I want a Car/dog/ come here、Red/yellow/green/blue/black/pink/purple stone, help me
@@ -43,7 +43,7 @@
 
 ![](.SB_0101_lesson01_images\090.png)
 
-## 热身：（2min）
+## 热身（2min）
 * 场景：户外、魔法商店门口
 * 关键物品：到处飞的蝴蝶
 * 目的：让学生放松，笑
@@ -71,7 +71,7 @@ NPC：懒惰的小仙女
 预设：乱七八糟的商店，还在睡懒觉的小仙女店长，礼物散落一地，无法购物。
 剧情流程：简单问候--向学生介绍乱七八糟的商店和还在睡觉的仙女--提示先帮仙女收拾商店--示范
 教学动作：认识物品，熟悉单词
-### 具体教学内容：
+### 教学内容：
 #### Step1
 老师：Hey jack ,do you know where we are now?
 学生: I don’t know
@@ -115,38 +115,43 @@ or, i have an idea, let’s help her clean up here, can you give me a hand ?(夸
 
 
 
-### Game 01 游戏
+### Game 01 整理房间 （gameType01)
+#### 游戏玩法
 > 橱窗分格，数量与礼物数量对应，橱窗上有礼物照片、从地上拿起魔法棒对着礼品喊口令：喊礼物名称+come here+物品选种发光，礼品会回到对应的位置
   需要收拾的橱窗及单词发光 互动2；说出 “car, go there”，则car来到学生面前，然后回到橱窗，说错单词则不发生判定；依次进行。(morgan:  编程未能实现)
 
-## 练习 （8min）
+#### 游戏说明书
+> 中文：请念出白色光圈中的物品名称，并呼喊魔法咒语：go there，可对物品进行施加整理魔法。看你能不能又快又好的将房间整理好。
+  英文：Please speak out the item's name, and then say "go there". You can give a magical power to the item to clean up
+  the room. Let's see whether you can clean up the room quickly. 
+
+## 练习（8min）
 * 引导学生完成收拾商店的游戏。
 * 完成后，触发小仙女睡醒，开始购买流程。 
 * 主线：购买礼物
 * 预设：整齐的商店，小仙女醒来，开始购物
 * 剧情流程：告诉学生可以开始购物了，并示范游戏流程：引导学生说“I want a....”，则小仙女挥舞魔法棒，橱窗里礼物消失，来到孩子脚边的礼品盒（预制）
-### 教学动作：
+### 教学动内容：
 #### Step1
 NPC（小仙女）:（打个哈欠，伸个懒腰，开始用打扫礼品店 互动3 ，背对学生和老师并且不理睬）
 老师：hey, hey, there, we want to buy some  gifts（夸张的动作7－夸张的表演）
 老师：hey（夸张的动作8－做喇叭状喊，死劲挥手，转向学生耸肩）,she didn't like me, maybe she likes the polite child   （夸张的动作9--搞笑的动作）
 仙女对老师做敲打，棒子敲打等夸张动作，不喜欢他（动画 4）
 
-？？？（老师：I will try again ,.I will show you.Hi fairy,you look so pretty.I like your dress 
 NPC转身，热情回应 动画5 
 老师：I want to buy some gifts  
-NPC: oh hi, That’s very sweet of you.you look pretty too Welcome to the Magic Gift shop. How can I help you?  
-老师：today is my friend’s birthday I want to buy some gifts for her 
-NPC：Oh, birthday gifts. Okay, what gift do you want 
-老师：I want to buy a car 
-NPC:one coin please 
-老师：here you are 
-NPC:ok as you wish）
+NPC: oh hi, That’s very sweet of you.you look pretty too. Welcome to the Magic Gift shop. How can I help you?  
+老师：today is my friend’s birthday I want to buy some gifts for her.  
+NPC：Oh, birthday gifts. Okay, what gift do you want.  
+老师：I want to buy a car.  
+NPC:one coin please.   
+老师：here you are.   
+NPC:ok as you wish.  
 
 老师：Hi jack,you can have a try. Do you know what to say to fairy?  
 学生：Hi,fairy,today is my friend’s birthday I want to buy gifts for her
 NPC：Oh, birthday gifts. Okay, what gift do you want?
- 学生：a car/dog/backpack/pencil case/
+学生：a car/dog/backpack/pencil case/
 老师：in sentence, say I want a car/dog/backpack/pencil case/ (让学生说出完整的句子)
 老师:  follow me and say I want a car/dog/backpack/pencil case/
 学生: 学生回应自己想要买的礼物。（T引导鼓励）I want a car/dog/backpack/pencil case/
@@ -158,11 +163,17 @@ NPC: thanks
 程序判定：对应数量案件/重置
 
 （3）所有礼物购买完成，场景变暗，轻微震动，老师铺垫剧情，邪恶魔法师来捣乱（NPC不出现）。
-主线：恢复
-礼物
-剧情流程：一束红光打在礼品盒上，所有礼物变成被冰包裹，老师铺垫剧情；小仙女挥舞魔法棒，空中出现四色宝石（红蓝黄绿）辉耀光芒，NPC示范“help me”句型，对应颜色宝石发光照对应礼物，冰随即被去掉礼物还原。但是懒惰的仙女回复了一个之后就累了，扔下魔法棒回去睡觉了。
-游戏流程：老师引导学生拿起魔法棒，继续游戏；需要还原的礼物高亮，老师引导学生根据之前记忆或者根据橱窗上的照片挥舞魔法棒并说出短语，说对则判定礼物还原（如，泰迪熊是黄色，学生需要说出”Yellow stone, help me”，正确则还原，错则不还原）
-教学动作：说出颜色，魔法棒变颜色
+* 主线：恢复礼物
+* 剧情流程：一束红光打在礼品盒上，所有礼物变成被冰包裹，老师铺垫剧情；小仙女挥舞魔法棒，空中出现四色宝石（红蓝黄绿）辉耀光芒，NPC示范“help me”句型，对应颜色宝石发光照对应礼物，冰随即被去掉礼物还原。但是懒惰的仙女回复了一个之后就累了，扔下魔法棒回去睡觉了。
+### Game 02 破冰魔法 （gameType 02)
+#### 游戏玩法
+> 老师引导学生拿起魔法棒，继续游戏；需要还原的礼物高亮，老师引导学生根据之前记忆或者根据橱窗上的照片挥舞魔法棒并说出短语，说对则判定礼物还原（如，泰迪熊是黄色，学生需要说出”Yellow stone, help me”，正确则还原，错则不还原）
+说出颜色，魔法棒变颜色
+
+#### 游戏说明书
+> 中文：请举起魔法棒，根据天空中魔法石的颜色，喊出颜色名称，并且念出咒语"help me"。魔法棒会充能，并可以击碎物品外的冰块。
+  English: Please raise toward the magical stone, say the color of the magical stone and then say "help me". You will get a power to your magical stick. Use it to crash the
+  iceberg.
 
 老师: Oh, No. The bad witch is coming. She messed around with the gifts and turned all the gifts covered in ice. Look.
 （老师说完，NPC示范用钻石还原礼物）即NPC接着T的话说：Don’t worry. I have an idea. We can use the stones to help us. Let me show you.（说完，小仙女挥动魔法棒，空中出现四色宝石。）And you can wave your magic stick
@@ -175,9 +186,9 @@ k and say “Red stone, help me!” and the ice will be removed from the gifts
  
 学生: Red/yellow/green/blue/black/pink stone, help me. （学生回应老师的鼓励并尝试。学生还原所有礼物，游戏结束）
 老师：hey jack. it’s so great you turned all the stones into gifts. Let’s go back (为了自然衔接下一个环节)
-
 程序判定：上一步/下一步/重置
-五、输出 （8 min）
+
+## 输出（8min）
 老师:oh Hey jack, do you want to buy gifts for someone? （夸张的动作10－夸张的表演，恍然大悟状）
 学生:yes
 老师：ok let’s get back to fairy again and buy some gifts
@@ -192,14 +203,12 @@ NPC: Oh, gifts. Okay, what gift do you want?
 NPC: one coin, please
 学生：here you are
 NPC：Ok. as you wish  
- 
 
-
-老师: Oh, No. The bad witch was coming again .not again! （夸张的动作11－很沮丧，很无奈的夸张表演, 双手抱头，逗笑学生）(加重oh no和not again!语气语调) She turned all the gifts covered in ice again. Look.
+老师: Oh, No. The bad witch was coming again .not again! （表演：很沮丧，很无奈的夸张表演, 双手抱头，逗笑学生）(加重oh no和not again!语气语调) She turned all the gifts covered in ice again. Look.
 NPC: Don’t worry. I have an idea. We can use the stones to help us. Let me show you. , you can wave your magic stick and say “Red stone, help me!” and  then the ice will be removed from the gifts
-学生: Red/Yellow/green/blue/black/pink/stone, help me
-老师： 
-五、小结 2分钟
+学生: Red/Yellow/green/blue/black/pink/stone, help me.
+
+## 小结（2min）
 小结完成后，礼品盒盖上，课程完成；获得成就“神秘人物的生日礼品盒”。
 教学动作：
 老师:so jack, you did a great job. You have a birthday gift box now i will give you a medal, congratulations! . Wow that is amazing. Are you happy now? (老师按键，礼物打包，然后老师按键，出现勋章飞到学生手中)

@@ -2,11 +2,24 @@
   <dictionary name="tp_mr">
     <words>
       <w>droplist</w>
+      <w>enddot</w>
+      <w>endgantt</w>
       <w>enduml</w>
+      <w>endwhile</w>
+      <w>extention</w>
+      <w>fillcolor</w>
+      <w>graphviz</w>
       <w>heivr</w>
       <w>lujie</w>
+      <w>ndiagrams</w>
+      <w>plantuml</w>
       <w>pomoto</w>
+      <w>skinparam</w>
+      <w>startdot</w>
+      <w>startgantt</w>
       <w>startuml</w>
+      <w>usecase</w>
+      <w>visio</w>
     </words>
   </dictionary>
 </component>

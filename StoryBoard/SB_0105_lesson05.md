@@ -1,4 +1,4 @@
-# Tongue Plus MR 1-40-2蛋糕里的秘密
+# Tongue Plus MR 1-40-5 单元复习
 ## 概况
 * 版本：3.0
 * 剧情介绍：
@@ -10,8 +10,6 @@
 5. 扩展句型（2）：you look so pretty、today is my friend’s birthday
 6. 知识点：26个
 * 技能：与生人际沟通的初级能力
-
-# Tongue Plus MR 1-40-2  蛋糕里的秘密
 
 本课简介：你将认识一位新朋友——Helen妹妹，和你一起为神秘朋友准备生日蛋糕，却发现了一张神秘的地图，还有一位老朋友会出现哦…..
 

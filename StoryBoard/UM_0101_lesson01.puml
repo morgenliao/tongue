@@ -1,5 +1,4 @@
 @startuml
-
 package "模型" {
 [car]
 [dog]
@@ -9,6 +8,7 @@ package "模型" {
 [book]
 [rabbit]
 [stone]
+[aeroplane]
 }
 
 @enduml

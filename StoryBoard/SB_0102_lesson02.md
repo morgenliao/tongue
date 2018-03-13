@@ -50,6 +50,7 @@ NPC(Non Player Character)：无
 
 地图 :初始地图
 
+.collaplse
 ![](.SB_0102_lesson02_images\011.png)
 ### <对话 01>
 T：Good morning，`What's you name？`
@@ -134,7 +135,7 @@ T: You are so excellent, you helped Helen a lot. Now have some cakes? Chose one 
 * ![](.SB_0102_lesson02_images\015.png)
 任务 02 （4分钟）
 
-> NPC(Non Player Character)：Helen
+> gameType 05
 关键物品 : >虚拟手<
 情节：和海伦一起做蛋糕
 预设：根据配方和海伦一起制作蛋糕
@@ -218,7 +219,7 @@ NPC(Non Player Character)：Helen and Fairy Tina
 情节06
 Fairy Tina appeared and smiled.
 Tina : Hi, my name is Tina. May I have a taste of your Chess cake?
-Tina : Wow, it tasted so good. Can I have this Chess cake?
+Tina : Wow, it tasted so good. Can I have7 this Chess cake?
 T : Oh, She want your Chess cake, do you like to give it to her?
 S : Yes.
 Tina : Wow，the chess cake tastes so good. In return, I have a map for you. You can find a lot of very interesting things on the map.

@@ -38,7 +38,7 @@
 6. 知识点：个
 * 技能：
 
-## 幕01: 面包店
+## 幕01: 烘焙店
 任务: Helen, 老师、学生
 
 ### 事项 01: 预热
@@ -57,14 +57,16 @@ Helen: 我们跟随地图去看看吧
 
 
 ## 幕02: 鲜花森林
-### 场景：[蓝天白云，天空云朵变换，鸟儿飞翔，温暖的阳光，草地，鲜花，大树，小溪，周围是树林，果树（为后续课程的水果铺垫），动物（青蛙在小溪边，树枝上有鸟，地上有猫]
+* 场景：[蓝天白云，天空云朵变换，鸟儿飞翔，温暖的阳光，草地，鲜花，大树，小溪，周围是树林，果树（为后续课程的水果铺垫），动物（青蛙在小溪边，树枝上有鸟，地上有猫]
+### 剧情
 Helen: 哇，这里好美啊！看看这里有些什么呢？
 老师问学生：你在这里看见了什么呢？（引导学生回答）
 学生回答: 我能看到….(学生用手指着动物、植物说 , 老师现场控制，自由交流)
 Helen: 这里好像有什么不对吧，宝宝没有找到自己的家！（场景里面，动物妈妈和宝宝是错乱的）
 Helen: 让我们来帮助他们找到自己的家，好吗？
 ### 游戏05: Pick and Say
-小鸟妈妈飞到面前，小鸟妈妈说：I have lost my kids, can you help me to find them?
+#### Game Details
+> 小鸟妈妈飞到面前，小鸟妈妈说：I have lost my kids, can you help me to find them?
 老师对学生: Use your magic stick to help the bird to find her kid, will you?
 游戏环节: 学生用魔法棒，找到小鸟，扣动扳机，金星飞出，当击中远处的小鸟以后，小鸟变到魔法棒顶端。
 老师引导学生多次重复游戏 最后，所有动物都正确归位
@@ -83,10 +85,8 @@ Helen: 我们来玩个游戏，找出相似的动物放在一起。就像这样:
 4. Round 3     :找到兔子，观察兔子(小兔子会探头，会躲在洞里，不能一下子全部看到) 5 kids.
 * ![](.SB_0103_lesson03_images\034.png)
 
-
-
 > 学生右手用魔法棒指着目标动物，射出五角星。五角星碰到目标动物，判定为找到，飞到小朋友的左手上空。
-
+#### Free Talk Topics:
 How many kids do the frog have?
 What's the color of the bird?
 How many legs of the bird?
@@ -99,16 +99,14 @@ Helen（老师触发）：它可以飞么？
 
 ## 幕03: 遇见Tom
 #### 游戏06: go and see
-学生比照地图，用Left 和 Right命令，带领老师一起走向目标位置。
+> 学生比照地图，用Left 和 Right命令，带领老师一起走向目标位置。
 老师：我们要找到去往河边的正确方向.看一下地图，能告诉我正确的方向吗？
 Demo  00 Right then Left; 
 老师:太棒了，我们已经靠近河边了，你能引导我们到下一个地方吗？
 Round 01 Left then Left;
 Round 02 Right then Left then Left;
 Round 03 Left then Right then Left;` 
-
-
-找错路了的话，路中间会有一个施工的阻隔，一只戴着安全帽的Hamster，会自我介绍：
+> 找错路了的话，路中间会有一个施工的阻隔，一只戴着安全帽的Hamster，会自我介绍：
 Hamster： Hi， I am Hamster, we are working here. You can't across the road.
 * ![](.SB_0103_lesson03_images\035.png)
 
