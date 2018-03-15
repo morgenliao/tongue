@@ -1,11 +1,11 @@
 			幕01		幕02				幕03				幕04				
 	1min		2min		1min	1min	10min										
 框    架	热身		开篇		剧情	环境对话	主题对话		剧情		游戏		剧情		游戏		结束
-							seahorse	<-input									
-							whale	<-input									
-							shark		    								
+							seahorse	<-input	见到海洋之心		用魔法攻击排污的船		回到海洋之心				
+							whale	<-input	海洋之心说有污染								
+							shark		    				完成最后挑战				
 							turtle										
-							dolphin	<-input									
+							dolphin	<-input					海洋之心送礼物				
 							scared										
 																	
 																	

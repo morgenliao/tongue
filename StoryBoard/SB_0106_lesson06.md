@@ -3,13 +3,18 @@ TP MR-1-40-6 伤心的海洋
 * 版本：v1.2
 * 剧情介绍：你听到了“海洋之心”的召唤，勇敢地前往海底世界，和朋友们一起寻找海底的真相
 * 知识点：
-1. 掌握词汇（）：
-2. 掌握词汇（）：
-3. 掌握句型（）：
-4. 扩展词汇（）：
-5. 扩展句型（）：
-6. 知识点：个
-* 技能：
+1. 掌握词汇（7）：orange, yellow, happy, scared, tail, eyes, turtle, 
+2. 掌握词汇（5）：seahorse, cute。
+3. 掌握句型（7）：Is it Cute? Yes it is. No, it isn't. Are you happy? Are you scared? Yes I am. No, Iam not.
+4. 扩展词汇（3）：seahorse, dolphin, whale.
+5. 扩展句型（0）：
+6. 知识点：23个
+* 技能：树立对环保的是非观
+
+
+
+
+![](.SB_0106_lesson06_images\093.png)
 
 
 6.2场景1    TP-X LAB“TP-X 实验室、
@@ -26,7 +31,7 @@ Tom: I don’t know. We need to find out about it. It’s our duty to protect th
 Teacher: Yes. We are Earth Guardians; the ocean is a part of the Earth. We are going to protect it
 Teacher: Jake, I think the ocean needs our help.Can you help the ocean?
 S:yes
-Teacher: Follow me and say We are Earth Guardians,, the ocean is a part of the Earth. We are going to protect it.let’s go help the ocean.I can help the ocean
+Teacher: Follow me and say We are Earth Guardians, the ocean is a part of the Earth. We are going to protect it.let’s go help the ocean.I can help the ocean
 S:…..(老师引导学生回答)
 Tom: Now Earth Guardians，let’s go 
 
@@ -42,36 +47,41 @@ TOM：跟我来
 
 
 
-6.3场景2 潜水器看海底世界
-大家闯过神秘通道，穿越来到一个深海潜水器（透明球状潜水器，简单仪表盘，弧形玻璃，可上浮到海面，也可以深潜到海底）
+Round 1、海龟
+Round 2、海豚
+Round 3、鲨鱼 Are you scared？ How do scared looks like.(perform 01)
+Round 4、鲸鱼
 
-海底看到美丽的海底景色
+T: Now，I will show you a cute animal. Hand out please.
+T: Look. There is a seahorse. Seahorse. Follow me. Seahorse.
+T: Are you happy? (perform 02)
+T: Let's have a close look to it. What does it looks like?
+S: ... .
+T: Does it have eyes? Yes, very big eyes.
+T: Does it have a long tail? What is the color of the tail?
+T: Look, look at your seahorse. Can you point out, where is the mouth? And where is the tail?
+T: This a baby seahorse. Can you tell me that what does it look like?
+
+T: Now, the baby seahorse want to go home, can you put it into t3he sink?
+T: Where is the sink?
+T: Ok, we have put the seahorse into the sink. Now, hand out please .
+T: Here is the mom sea horse. Can you tell me, what does it look like?
+T: Does it have eyes? Where are the eyes? Are they big?
+T: What is the color of the sea horse?
+T: Does it have tail? Is it long or short?
+T: Ok, now tell me in sentence. What does it look like?
+
+(动画，小睁着大眼睛望着学生)
+
+T: Oh, the baby sea horse want his mom. Can you let his mom back to him?
+T: You did a very good job.
+T: Now, we are on the way to find the heart of ocean. You can look outside through the window.
+T: Enjoy the trip.
+(动画：海底世界的视频2分钟)
+
+T: There is the heart of ocean, it seems that she want to tell us something.
 
 任务2：
-单词：海洋动物词汇
-句型：你最喜欢的海洋动物是什么？
-你最喜欢的……
-Teacher: What animal do you like most?
-S:
-Teacher: What is the largest mammal in the sea?
-S: No
-Teacher:Whale
-Teacher: What do you think  Whales like to eat normally?
-S:
-Teacher: Do you know what octopus is?
-S:
-Teacher: Do you know what dolphin is?
-S:
-Teacher: Do you know what starfish is?
-S:
-Teacher: Do you know what lobster is?
-S:
-Teacher: Do you know what shrimp is ?
-S:
-Teacher: Do you know what seagull is?
-S:
-Teacher: Do you know what seahorse is?
-S:
 
 6.4 场景3潜水器浮在海面
 完成任务后，从美丽的海底世界上浮到海面。黑呜呜的大片泄露的原油裹住了潜水器，从缝隙中看出去，各种垃圾（塑料桶，破布等），海鸟给油污黏住，海豚在痛苦挣扎…
