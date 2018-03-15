@@ -215,4 +215,4 @@ NPC: Don’t worry. I have an idea. We can use the stones to help us. Let me sho
 学生:Yes  
 神秘人物的生日礼品盒动画 8
 老师 All right. I think your friend will be very happy too.
-老师：We are going to buy some cakes for the next time. Hope you will enjoy it. So see you next time jack. I’m Jessie see you, bye  bye
+老师：We are going to buy some cakes for the next time. Hope you will enjoy it. So see you next time jack. I’m Jessie see you, bye bye.

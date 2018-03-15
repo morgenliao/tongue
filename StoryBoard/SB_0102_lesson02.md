@@ -4,14 +4,26 @@
 * 剧情介绍：认识一位新朋友——Helen妹妹，和你一起为神秘朋友准备生日蛋糕，却发现了一张神秘的地图，还有一位老朋友会出现哦…..
     (今天你将认识一位新朋友，你和她一起为神秘朋友准备生日蛋糕，完成超难的蛋糕任务后，你才能有机会得到一张神秘的地图…..)
 * 知识点：
-1. 掌握词汇（）：
-2. 掌握词汇（）：
-3. 掌握句型（）：
-4. 扩展词汇（）：
-5. 扩展句型（）：
-6. 知识点：个
+1. 掌握词汇（12）：one, two, three, four, five, six, seven, eight, nine, ten, eleven, twelve
+2. 掌握词汇（04）：cheese, arms, desk, cake, egg, flour, milk, map
+3. 掌握句型（04）：What's your name? My name is ... . How old are you? I am seven. 
+4. 扩展词汇（04）：cheese, map, flour, cake
+6. 知识点：24个
 * 技能：简单的烘焙了解
-
+* 故事线
+![](.SB_0102_lesson02_images\091.png)
+* 模型：
+    1 鸡蛋
+    2 面粉袋
+    3 蜂蜜
+    4 牛奶
+    5 打蛋器
+    6 起司
+    7 打蛋器
+    8 托盘
+    9 操作台
+    10 烤箱
+![](.SB_0102_lesson02_images\092.png)
 ## 幕 01
 * {场景}：加糖小镇街头甜品店
 (店名：蛋糕公主  Princess of cake甜品店，周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料；一排货架上是各种蛋糕原料：鸡蛋，面粉，蜂蜜，牛奶，打蛋器，起司，打奶器， 托盘
@@ -21,21 +33,9 @@
 * 近景：Princess of Cake 烘焙店
 * 内景：周围是货架，一排冷藏货架上是各种成品糕点，蛋糕，饮料。
 
-模型：
-* 鸡蛋
-* 面粉袋
-* 蜂蜜
-* 牛奶
-* 打蛋器
-* 起司
-* 打蛋器
-* 托盘
-* 操作台
-* 烤箱
-secret
 
 NPC(Non Player Character)：无
-关键物品：取消
+
 预设：关着门的面包店, 15秒后开门，老师与学生一起倒数读秒直到面包店开门
 故事进程：简单的问候—介绍面包店
 教学行为：引导学生描述形状、颜色
@@ -50,7 +50,6 @@ NPC(Non Player Character)：无
 
 地图 :初始地图
 
-.collaplse
 ![](.SB_0102_lesson02_images\011.png)
 ### <对话 01>
 T：Good morning，`What's you name？`
@@ -88,7 +87,7 @@ T: Bingo! The door is open now. Let’s have a look into the bakery.
 
 ### 动画01: 视觉特效01 :在闪光特效中门打开
 
-# 幕03
+## 幕03
 
 任务01 （4分钟）
 NPC(Non Player Character)：Helen
@@ -142,7 +141,7 @@ T: You are so excellent, you helped Helen a lot. Now have some cakes? Chose one 
 故事进程：帮助学生理解制作配方和说明
 教学动作：真实生活中的物品运用
 
-#### 第4幕
+## 幕04
 
 地图 :烘焙店
 
@@ -155,7 +154,7 @@ T : Do you know what are we going to do ?
 S : Make cake. ( Let the student to understand the mission ).
 T : OK, let’s go.
 
-任务 2-1
+#### 任务 2-1
 ==============================
 情节04
 海伦移动到桌子后边.
@@ -194,11 +193,13 @@ How many eggs? )
 
 ### 游戏：
 > 第一局：honey cake （自动设置时间5）
-  recipe: 1 honey, 2 eggs, 1 flour,2 milk
+  recipe: 1 honey, 2 eggs, 1 flour,2 milk （蜂蜜，鸡蛋，面粉，牛奶）
   第二局：Chocolate Cake （手动设置时间10）（不过是否正确，均由老师设置正确时间，下一步）
   recipe: 1 Chocolate,2 eggs,2 flour, 1 milk 
   第三局：Cheese Cake   （手动设置时间15，需要老师帮助找到cheese。
   recipe: 2 Cheese, 2 eggs, 2 flour, 1 milk
+  
+  
 
 情节: There is no chess, the student can't finish to make Cake. The teacher need to help him/her.
 
@@ -245,8 +246,6 @@ T : Look at the trees over there, it looks very beautiful. Let’s go there next
 * Eleven
 * Twelve
 
-* backpack?
-* chair?
 * cheese
 * desk
 * arms
@@ -255,8 +254,6 @@ T : Look at the trees over there, it looks very beautiful. Let’s go there next
 * My name is Millie
 * How old are you?
 * I am seven
-* I have a green tail.
-* I have green arms.
 map
 card
 cake
