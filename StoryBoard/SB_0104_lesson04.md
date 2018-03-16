@@ -3,14 +3,10 @@
 * 版本：
 * 剧情介绍：
 * 知识点：
-1. 掌握词汇（）：
-2. 掌握词汇（）：
-3. 掌握句型（）：
-4. 扩展词汇（）：
-5. 扩展句型（）：
-6. 知识点：个
-* 技能：
-
+1. 掌握词汇（11）：coffee, cold, orange, cook, farmer, artist, bedroom, lamp, door, pilot, TV
+2. 掌握句型（5）：This is my brother. This is my sister,. How old is he? How old is she? She is nine.
+3. 知识点：16个
+* 技能： 了解地球日
 
 简介：你和朋友们一起去参加生日Party，到底是谁的生日呢？今天你会有一个大大的惊喜哦…
 
@@ -127,14 +123,3 @@ Helen: 准备好了！
 * 
 * 
 * 
-* 
-* 
-* 
-* 
-
-I have a secret. Come with me
-
-1、认识
-2、烘焙
-3、找路
-4、了解地球日，了解了环保知识

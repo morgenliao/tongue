@@ -45,9 +45,7 @@ NPC(Non Player Character)：无
 近景：烘焙店门口
 
 ## 幕01
-
 场景01: Entrance Stage
-
 地图 :初始地图
 
 ![](.SB_0102_lesson02_images\011.png)
@@ -142,17 +140,16 @@ T: You are so excellent, you helped Helen a lot. Now have some cakes? Chose one 
 教学动作：真实生活中的物品运用
 
 ## 幕04
+* 地图: 烘焙店
 
-地图 :烘焙店
-
-H : We have an order to make cakes, Can you help me to make them?
-T : Oh, we make cake. You mean me and her/him? ( prompt : turn the head and talk with Helen )
-H : Yes, we together. That will be very interesting.
-T : So, now we are going to make the cake together, shall we? ( prompt: turn to the Student and ask )
-S : Yes.
-T : Do you know what are we going to do ?
-S : Make cake. ( Let the student to understand the mission ).
-T : OK, let’s go.
+H: We have an order to make cakes, Can you help me to make them?
+T: Oh, we make cake. You mean me and her/him? ( prompt : turn the head and talk with Helen )
+H: Yes, we together. That will be very interesting.
+T: So, now we are going to make the cake together, shall we? ( prompt: turn to the Student and ask )
+S: Yes.
+T: Do you know what are we going to do ?
+S: Make cake. ( Let the student to understand the mission ).
+T: OK, let’s go.
 
 #### 任务 2-1
 ==============================

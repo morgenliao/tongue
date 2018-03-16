@@ -40,8 +40,8 @@
 5. 扩展句型（2）：you look so pretty、today is my friend’s birthday
 6. 知识点：26个
 * 技能：初级人际沟通能力
+* ![](.SB_0101_lesson01_images\090.png)
 
-![](.SB_0101_lesson01_images\090.png)
 
 ## 热身（2min）
 * 场景：户外、魔法商店门口
@@ -96,11 +96,13 @@ NPC：懒惰的小仙女
 小声的喊: hello, hello, hello，表现得很无奈  夸张的动作5
 or, i have an idea, let’s help her clean up here, can you give me a hand ?(夸张的动作6－作出捡东西的动作引导)
 学生: yes.（老师鼓励，练习开始）
+![](.SB_0101_lesson01_images\212.jpg)
 #### Step5
 老师:  can you see a magic stick here?
 学生：I don’t know
 老师：it’s a magic stick. Follow me and say magic stick
-学生：magic stick （交互1:学生说对魔法棒单词，老师操作“Enter”键，魔法飞向学生手柄，魔法棒替换手柄） 
+学生：magic stick 
+（交互1:学生说对魔法棒单词，老师操作“Enter”键，魔法飞向学生手柄，魔法棒替换手柄） 
 #### Step6
 老师：can you see a car/dog/backpack/pencil case/?
 学生：yes
@@ -111,9 +113,6 @@ or, i have an idea, let’s help her clean up here, can you give me a hand ?(夸
 老师：Now point the magic stick at the gift and say car go there and the car will go back to the shop window.see,Now you can have a try） (场景描述：老师演示完 car,go there,汽车回到商品展示柜上，老师交互：按next：小汽车回到商品展示柜) 把魔法棒拿到手上去指物品（交互1---之前一直是锁住，到了这一步才解锁）
 8.学生:car/dog/frog/book/pencil case/pen，go there. (场景描述：老师指导完学生开始念出商品名称，等待学生发出指令) 
 老师：good job, jack
-
-
-
 
 ### Game 01 整理房间 （gameType01)
 #### 游戏玩法
@@ -174,15 +173,15 @@ NPC: thanks
 > 中文：请举起魔法棒，根据天空中魔法石的颜色，喊出颜色名称，并且念出咒语"help me"。魔法棒会充能，并可以击碎物品外的冰块。
   English: Please raise toward the magical stone, say the color of the magical stone and then say "help me". You will get a power to your magical stick. Use it to crash the
   iceberg.
+  
+ * ![](.SB_0101_lesson01_images\211.jpg)
 
 老师: Oh, No. The bad witch is coming. She messed around with the gifts and turned all the gifts covered in ice. Look.
 （老师说完，NPC示范用钻石还原礼物）即NPC接着T的话说：Don’t worry. I have an idea. We can use the stones to help us. Let me show you.（说完，小仙女挥动魔法棒，空中出现四色宝石。）And you can wave your magic stick
 k and say “Red stone, help me!” and the ice will be removed from the gifts
 小仙女说完，礼物恢复 则红色宝石发光照着相同颜色的礼物，如红色玩具车，礼物还原。） （交互7）
 老师引导鼓励学生尝试。
-
 老师：Now, jack You can have a try and wave your magic stick ,follow me and say： Red/yellow/green/blue/black/pink stone, help me and hit the ice， the ice will be removed from the gifts /Red stone, help me. you can also try other colors of stones,so follow me and say yellow/green/blue/black/pink stone, help me （学生说对口令，老师按键，魔法棒充能，学生触碰冰块还原所有礼物，游戏结束）
-
  
 学生: Red/yellow/green/blue/black/pink stone, help me. （学生回应老师的鼓励并尝试。学生还原所有礼物，游戏结束）
 老师：hey jack. it’s so great you turned all the stones into gifts. Let’s go back (为了自然衔接下一个环节)
