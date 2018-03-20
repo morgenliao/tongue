@@ -28,7 +28,7 @@
 *  rabbit
 *  stone
 
-# # Tongue Plus MR 1-40-2 第一集 
+# Tongue Plus MR 1-40-2 第一集 
 ## 概况
 * 版本：v3.0
 * 剧情介绍：
