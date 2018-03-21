@@ -228,9 +228,9 @@ Item_magic map
 T : Look at the trees over there, it looks very beautiful. Let’s go there next time, shall we?
 
 
-## Helen's scripts (7 years old kid.)
+## Helen's scripts (6 years old kid.)
 H: Fine, thanks.
-H: My name is Helen. I’m 7 years old. How about you?
+H: My name is Helen. I’m 6 years old. How about you?
 H: I am doing a very important job. You see, I am using magic to move the eggs to the shelf. I need your help.
 
 H: Tomorrow is my friends birthday, shall we make a cake for him together?

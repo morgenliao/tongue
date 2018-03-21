@@ -11,6 +11,10 @@
 6. 知识点：个
 * 技能：
 ## 热身
+
+
+
+
 ## 幕01 TP Lab
 （屏幕上出现了一个黄金鼠，戴着工人头盔，进行远程连线）
 Worker: Hello, everybody, I am a worker work in a chemical factory and I have something really bad to report to you. Bad monster named Ziggy was running away from our factory. They were running away towards flower forest. They must be hiding in there. It’s very dangerous. It can pollute the Forest. We need your help.
@@ -26,20 +30,8 @@ Helen: No, Tom. I am an Earth guardian, no matter what happens, I have to do my 
 Tom：Helen, thank you for dedication. Now Guardians, let’s go and destroy Ziggy
 Teacher: Let’s go
 S:…….
-## 幕02
-## 幕03
-## 幕04
-
-### 任务清单
-
-### 游戏清单
-
-### 模型清单
-
-
 ### 动画
 讲解Ziggy是一种化学怪物，它从工厂的烟囱或者排水中来，它污染环境。让植物枯萎，让人类生病。需要找到Ziggy，并且消灭他们，才能帮助Helen。
-
 ### 主题谈话
 * ![](.S_0109_lesson09_images\011.png)
 Here are the brief information about the Ziggy. Look at your left hand. This is what Ziggy looks like.
@@ -52,8 +44,7 @@ Here are the brief information about the Ziggy. Look at your left hand. This is 
 
 - They are monster. They polluted the Earth. They are purple. They let Helen get ill.
 
-
-## Scene02:Flower Forest
+## 幕02 Flower Forest 鲜花森林
 剧情：Earth Guardians are heading towards Flower Forrest. They need to find out where the Ziggy is hiding. They need to ask Hamster for direction to look for Ziggy and use stone magic to destroy ziggy.
 
 Helen: Tom, where do you think Ziggy is hiding in the forest?
@@ -71,9 +62,16 @@ Round 1: Find out only.
 Round 2: in the tree or under the tree.
 Round 3: in the bushes or in the flowers.
 
+## 幕03 鲜花森林
 ### Game
 T:Yes,it’s in the bushes, look, the bushes are dying now, I have an idea, you can use your joystick and say red stone, help me,and your joystick is full of energy and you use the joystick to touch the Ziggy. and Ziggy would be destroy.
 S……
+> 玩法：学生面前出现各种颜色，被Ziggy包裹的花朵。学生用魔法棒指向空中，呼喊宝石的名称。魔法棒充能以后，可以向对应颜色的花朵施加魔法，消灭Ziggy，让花朵重获健康。
+
+## 幕04 实验室 
+T: Now we have beat down all the Ziggy. You did a great job. And Helen feels much better know. 
+T: You helped the forest and Helen. Thank you so much. As a gift, we offer this metal to you.
+
 
 
 ### Free topics
@@ -83,4 +81,22 @@ S……
 * Is the beach very clean or very beautiful?
 * Do you know where I come from?
 * We can see the sea in Canada....
+
+
+
+
+### 任务清单
+
+### 游戏清单
+
+### 模型清单
+
+
+
+
+
+
+
+
+
 

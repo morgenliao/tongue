@@ -206,7 +206,7 @@ T : Look at the trees over there, it looks very beautiful. Let’s go there next
 * What's your name
 * My name is Mille
 * How old are you?
-* I am seven
+* I am seven.
 
 ## Helen's scripts
 H: Fine, thanks.
