@@ -36,19 +36,6 @@ S:…….
 
 ### 模型清单
 
-## 简介
-* 版本：v1.0
-* 剧情介绍：Earth guardians have from a worker in a chemical factory that monster named Ziggy was running away, which is very dangerous, because Ziggy can be a big pollution to Earth, so Earth guardians have to finish their duty this time and find out where Ziggy is hiding and destroy it. Helen is not feeling very well, but she has to take the pain and finish her duty as an Earth guardian
-* 知识点：
-    1. 掌握词汇（）：
-    2. 掌握句型（）：
-    3. 扩展词汇（）：
-    4. 扩展句型（）：
-    5. 知识点：个
-* 技能：向陌生人问询，寻求帮助
- 
-Scene01: TP Lab 
-
 
 ### 动画
 讲解Ziggy是一种化学怪物，它从工厂的烟囱或者排水中来，它污染环境。让植物枯萎，让人类生病。需要找到Ziggy，并且消灭他们，才能帮助Helen。

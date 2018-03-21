@@ -74,10 +74,10 @@ Round 03: 汽车尾气排放——大气污染
 * item : traffic lights.
 * character : none
 
-* plot : The teacher ask the student to make cake by themself.
+* plot : The teacher ask the student to make cake by themselves.
 * game : go and see.
 
-T: (todo: Self introduce and warm up)
+T: (Self introduce and warm up)
 
 T: We have learn how to make cakes. Did you like that?
 T: Today, let's make some cakes for our self. Here is a shopping list, let's go to the shop and buy them.
