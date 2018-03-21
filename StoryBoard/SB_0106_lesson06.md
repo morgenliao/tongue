@@ -18,17 +18,7 @@ TP MR-1-40-6 伤心的海洋
 回顾上一课地球卫士的口号：One Earth, One dream
 
 TOM：地球卫士有一个任务，让我们看看收到的信息
-（出现海洋之心的讯息，拟人化，背景声音，伤心的声音，求救：Help me!）
-Tom: Hey everybody, heart of the ocean is calling us.
-Helen: What is happening, Tom?
-Teacher: Is something happening to the ocean, Tom?
-Tom: I don’t know. We need to find out about it. It’s our duty to protect the ocean no matter what happens. Remember we are Earth guardians. The ocean is a part of the Earth
-Teacher: Yes. We are Earth Guardians; the ocean is a part of the Earth. We are going to protect it
-Teacher: Jake, I think the ocean needs our help.Can you help the ocean?
-S:yes
-Teacher: Follow me and say We are Earth Guardians, the ocean is a part of the Earth. We are going to protect it.let’s go help the ocean.I can help the ocean
-S:…..(老师引导学生回答)
-Tom: Now Earth Guardians，let’s go 
+
 
 ## 幕02：
 ### 剧情01：
@@ -87,11 +77,11 @@ T: There is the heart of ocean, it seems that she want to tell us something.
 #### 游戏说明书
 > 中文：请对准对讲机，喊出泄露油料船只的编号。“Ship 3， stop it！”
   English: Please use the phone and speak out the ship's number. "Ship 3, stop it!" 
-Round 0： ship 3     (5 艘船）
-Round 1： ship 8     (10艘船）
-Round 2： ship 12    (15艘船）
-Round 3： ship 15    (15艘船）
-Round 4： ship 11   （15艘船）
+Round 0： ship 3     (5 号船）
+Round 1： ship 8     (10号船）
+Round 2： ship 12    (12号船）
+Round 3： ship 15    (15号船）
+Round 4： ship 11   （11号船）
 
 ## 幕 03：
 ### 剧情

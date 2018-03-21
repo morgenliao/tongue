@@ -55,7 +55,7 @@ Helen: 我们跟随地图去看看吧
 
 
 ## 幕02: 鲜花森林
-* 场景：[蓝天白云，天空云朵变换，鸟儿飞翔，温暖的阳光，草地，鲜花，大树，小溪，周围是树林，果树（为后续课程的水果铺垫），动物（青蛙在小溪边，树枝上有鸟，地上有猫]
+* [场景：蓝天白云，天空云朵变换，鸟儿飞翔，温暖的阳光，草地，鲜花，大树，小溪，周围是树林，果树（为后续课程的水果铺垫），动物（青蛙在小溪边，树枝上有鸟，地上有猫]
 ### 剧情
 Helen: 哇，这里好美啊！看看这里有些什么呢？
 老师问学生：你在这里看见了什么呢？（引导学生回答）
@@ -63,17 +63,12 @@ Helen: 哇，这里好美啊！看看这里有些什么呢？
 
 ### 游戏05: Pick and Say
 #### Game Details
-> 小鸟妈妈飞到面前，小鸟妈妈说：I have lost my kids, can you help me to find them?
-老师对学生: Use your magic stick to help the bird to find her kid, will you?
-游戏环节: 学生用魔法棒，找到小鸟，扣动扳机，金星飞出，当击中远处的小鸟以后，小鸟变到魔法棒顶端。
-老师引导学生多次重复游戏 最后，所有动物都正确归位
-老师：哇，真好玩！
-老师对学生说：你来试试吧？
-
+> 小鸟妈妈飞到面前,用气泡对话框"I have lost my kids"?
+老师对学生: The bird have lost her kids, Use your magic stick to help the bird to find her kid, will you?
+游戏环节: 学生用魔法棒，找到小鸟，扣动扳机，金星飞出，当击中远处的小鸟以后，小鸟变到|虚拟手|上空。
 * ![](.SB_0103_lesson03_images\031.png)
 
 1. Round 0 Demo:找到小鸟
-
 2. Round 1     :找到猫，观察猫  （sisters and brothers)
 * ![](.SB_0103_lesson03_images\036.png)
 3. Round 2     :找到青蛙，观察青蛙（青蛙会躲在周边颜色相近的地方）, (grandpa and grandma)
@@ -81,17 +76,11 @@ Helen: 哇，这里好美啊！看看这里有些什么呢？
 4. Round 3     :找到兔子，观察兔子(小兔子会探头，会躲在洞里，不能一下子全部看到) 5 kids.
 * ![](.SB_0103_lesson03_images\034.png)
 
-> 学生右手用魔法棒指着目标动物，射出五角星。五角星碰到目标动物，判定为找到，飞到小朋友的左手上空。
 #### Free Talk Topics:
 How many kids do the frog have?
 What's the color of the bird?
 How many legs of the bird?
 
-Helen（老师触发）：这个。。有几条腿呢？（空中浮现问题和图画）
-学生:,,,,,
-(学生自有选择并发音（老师在学生选择后帮助其发音）
-)
-Helen（老师触发）：它可以飞么？
 
 ## 幕03: 遇见Tom
 #### 游戏06: go and see
@@ -102,6 +91,7 @@ Demo  00 Right then Left;
 Round 01 Left then Left;
 Round 02 Right then Left then Left;
 Round 03 Left then Right then Left;` 
+
 > 找错路了的话，路中间会有一个施工的阻隔，一只戴着安全帽的Hamster，会自我介绍：
 Hamster： Hi， I am Hamster, we are working here. You can't across the road.
 * ![](.SB_0103_lesson03_images\035.png)
@@ -118,7 +108,7 @@ T: What shall we do?
 >剧情: 远处的一棵大树有个树洞，突然发出光芒，树干变成了一道门，里面走出来一个人，Tom哥哥（老师触发）
 
 Helen对大家说：大家好，这是我的哥哥Tom
-Tom对老师和学生打招呼：大家好，我是Tom, 很高兴见到你们
+Tom对老师和学生打招呼：大家好，我是Tom, 我今年9岁。很高兴见到你们。
 Helen: Tom，你在这里做什么呢？
 Tom: 我在帮助森林，帮助地球。你们看看我们的地球受到的伤害：
 
@@ -145,16 +135,30 @@ Tom:太棒了，但首先你得完成一个挑战来展现你的勇气和智慧
 
 
 ## 复习
+* cake
+* big
+* arms
+* cheese
+* desk
+* sink
+* refrigerator
+* kitchen
+* honey
+* one
+* two
+* three
+* four
+* five
+* What's your name
+* My name is Mille
+* How old are you?
+* I am seven
+ 
+ 
+## Helen's script
+Helen: This is my brother Tom.
+Helen: What are you doing here, Tom?
 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-* 
-*
+Tom: Hi, every body. My name is Tom, I am 9 years old. Nice to meet you.
+Tom: I am helping the forest, helping the Earth. Let me show you what's happening.
  
