@@ -228,6 +228,26 @@ Item_magic map
 T : Look at the trees over there, it looks very beautiful. Let’s go there next time, shall we?
 
 
+## Helen's scripts (7 years old kid.)
+H: Fine, thanks.
+H: My name is Helen. I’m 7 years old. How about you?
+H: I am doing a very important job. You see, I am using magic to move the eggs to the shelf. I need your help.
+
+H: Tomorrow is my friends birthday, shall we make a cake for him together?
+H: Yes, we do it together. That will be very interesting.
+
+H: Oh, look, here is the recipes. Can you tell me what’s on the recipe?
+H: That’ s right. Let me see, 2 eggs, 2 milk and 1 honey. Put the ingredients on the desk.
+
+H: Beat them together with your arms. Beat until he mixture is smooth. ( demonstrate how to beat the ingredients )
+H: Then put them into the oven. And turn to “bake cake”.
+H: Oh, we need to clean the kitchen now. Can you put the dishes into the sink? Use some water 
+
+## Tina's scripts (fairy)
+Tina: Hi, my name is Tina. May I have a taste of your Chess cake?
+Tina: Wow, it tasted so good. Can I have7 this Chess cake?
+Tina: Wow，the chess cake tastes so good. In return, I have a map for you. You can find a lot of very interesting things on the map.
+
 ## Review Vocabulary
 * zero
 * one
