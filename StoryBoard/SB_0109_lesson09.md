@@ -3,13 +3,13 @@
 * 版本：V1.0
 * 剧情介绍：Earth guardians have from a worker in a chemical factory that monster named Ziggy was running away, which is very dangerous, because Ziggy can be a big pollution to Earth, so Earth guardians have to finish their duty this time and find out where Ziggy is hiding and destroy it. Helen is not feeling very well, but she has to take the pain and finish her duty as an Earth guardian.
 * 知识点：
-1. 掌握词汇（）：worker, factory, flower, bush, scared, monster
-2. 掌握词汇（）：red, blue, yellow, orange,
-3. 掌握句型（）：
-4. 扩展词汇（）：
-5. 扩展句型（）：in the tree, under the tree. Where is the tail. What color is it. How many legs.
-6. 知识点：个
-* 技能：
+1. 掌握词汇（6）：worker, factory, flower, bush, scared, monster
+2. 掌握词汇（4）：red, blue, yellow, orange,
+3. 掌握句型（5）：in the tree, under the tree, Where is the tail. What color is it. How many legs. 
+4. 扩展词汇（1）：stomach, 
+5. 扩展句型（1）：My stomach hurts so much.
+6. 知识点：17个
+* 技能：学习空气污染相关知识，认识到空气污染对人体的危害
 ## 热身
 
 
@@ -52,7 +52,7 @@ Tom: I don’t know. Let’s ask someone here.
 Teacher: Look, there is a hamster here. He must know something. let’s go and ask him 
 S: (Let the student to say hi, and ask where are Ziggy)
 Hamster: No, it’s not here, he must be around somewhere else
-Teacher: OK, Maybe we should go to some other place to find out
+Teacher: OK, Maybe we should go to some other place to find out.
 (老师切换的下一场景,)
 Teacher: Look, there is a hamster here. He must know something. let’s go and ask him 
 S: (Let the student to say hi, and ask where are Ziggy)
@@ -65,7 +65,8 @@ Round 3: in the bushes or in the flowers.
 ## 幕03 鲜花森林
 ### Game
 T:Yes,it’s in the bushes, look, the bushes are dying now, I have an idea, you can use your joystick and say red stone, help me,and your joystick is full of energy and you use the joystick to touch the Ziggy. and Ziggy would be destroy.
-S……
+S... .
+
 > 玩法：学生面前出现各种颜色，被Ziggy包裹的花朵。学生用魔法棒指向空中，呼喊宝石的名称。魔法棒充能以后，可以向对应颜色的花朵施加魔法，消灭Ziggy，让花朵重获健康。
 
 ## 幕04 实验室 
@@ -83,7 +84,16 @@ T: You helped the forest and Helen. Thank you so much. As a gift, we offer this 
 * We can see the sea in Canada....
 
 
+## Tom and Helen's Script
+Tom: Hello, Mister, to protect the Earth is our duty, don’t worry about it. We’re on it now.
+Tom: Okay, guardians, attention please! We have a task now. We need to find out where Ziggy are hiding and destroy tem, are you ready?
+Helen: Tom, I’m not feeling well now. My stomach hurts so much, I think I’m still sick. The ziggy may polluted the forest and that caused my illness.
+Tom: What’s wrong, Helen?
+Tom: Helen, you don’t look ok to finish the task. Do you need a rest
+Helen: No, Tom. I am an Earth guardian, no matter what happens, I have to do my part. I am not taking a rest.
+Tom：Helen, thank you for dedication. Now Guardians, let’s go and destroy Ziggy
 
+Tom: I don’t know. Let’s ask someone here.
 
 ### 任务清单
 

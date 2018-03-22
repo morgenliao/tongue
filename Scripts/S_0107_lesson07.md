@@ -55,6 +55,7 @@ Tom:Hi,David
 Helen:Hi,David
 T:Hi,David
 David:I know what you’re going to ask me. Must be about heart of the ocean，right？
+David:大海怎么了？ What happened to the ocean？
 S:The ocean is having sickness，it needs some help
 T：Do you want to know who did this horrible thing?
 S:Yes,I want to know who did this?
@@ -83,7 +84,7 @@ S:
 
 
  浮现出一个反面任务的形象
-Tom: according to the information we had from our fellow Earth guardians, Darko is  the mastermind who did the horrible thing to the ocean.
+Tom:according to the information we had from our fellow Earth guardians, Darko is  the mastermind who did the horrible thing to the ocean.
 T:What are we going to do?
 David：我们下节课继续看看《海洋史诗》这本书吧
 David:Now let’s take a look at the book “epic of the ocean”
@@ -99,16 +100,21 @@ David:Now let’s take a look at the book “epic of the ocean”
  Waste Sorting is a scientific management method for the effective disposal of waste. People face the situation of worsening garbage production and environmental deterioration. Through garbage classification management, we can maximize the utilization of garbage resources, reduce the amount of garbage disposal and improve the quality of living environment. We are generally divided into: recyclable, non recyclable, domestic waste, hazardous waste. 
 
 
-## Tom's scripts
+## Actor's scripts
 Tom: Everybody,let’s go to help the ocean. Follow my lead!
 Tom：We’re at the library Now .Look，wow,there’ re  plenty of books here.
-Tom: I like reading a lot,do you like reading? 
+Tom:I like reading a lot,do you like reading? 
 Tom：There’ re all different types of books in here.You can pick a book that you like most
+
 
 David:Hello everybody,I’m David.I am a scientist.I do research on the ocean.（A 60 years old doctor)
 Tom:Hi,David
 Helen:Hi,David
 
-Tom: according to the information we had from our fellow Earth guardians, Darko is  the mastermind who did the horrible thing to the ocean.
 David:I know what you’re going to ask me. Must be about heart of the ocean，right？
-David: Okay,there is a book hiding in the library and you can get the answer from this book.You should finish this task now
+
+David: Okay,there is a book hiding in the library and you can get the answer from this book.You should finish this task now.
+David:Let’s go find out what is going on.
+
+Tom:according to the information we had from our fellow Earth guardians, Darko is  the mastermind who did the horrible thing to the ocean.
+David:Now let’s take a look at the book “epic of the ocean”

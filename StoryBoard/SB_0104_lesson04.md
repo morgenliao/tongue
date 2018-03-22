@@ -45,10 +45,10 @@ Tom: Thank you very much.
 T: Here is your gift. ... prepared for you.
 Tom: Oh, Thank you so much. I like them.
 Helen: Let me introduce my family to you.
-This is my grandmother, she is a farmer.
-This is my grandfather, he is a cook.
-This is my mom, she is an artist.
-This is my dad, he is a pilot.
+Helen: This is my grandmother, she is a farmer.
+Helen: This is my grandfather, he is a cook.
+Helen: This is my mom, she is an artist.
+Helen: This is my dad, he is a pilot.
 
 Now before the dinner, shall we play a game?
 > 游戏06: 年龄排序
@@ -89,7 +89,7 @@ Tom：我有一个秘密，你们跟我来
 
 ### 视频 : 播放世界地球日的视频
 
-Tom：地球遭受到极大的威胁，有个邪恶组织，名字叫“黑暗星球”，他们破坏地球的土壤，大气，海洋，森林，想让地球变成一个这样的地球（图片展示荒漠化，气候变暖等严重问题后的地球）。
+Tom：地球遭受到极大的威胁，有个邪恶组织，名字叫“黑暗星球”，他们破坏地球的土壤，大气，海洋，森林，想让它变成一个这样的地球（图片展示荒漠化，气候变暖等严重问题后的地球）。
 Helen: 哥哥，那地球卫士就是保护地球的吗？
 Tom: 是的，地球卫士准备向“黑暗星球”开战！
 Helen：我也想成为地球卫士！可以吗？
@@ -125,6 +125,24 @@ Helen: 准备好了！
 * 
 
 ## Helen Scripts
-Helen：Today, my brother 
-今天，我哥哥告诉我有一个特别的party，一个生日party。
-Helen：我们准备的礼物在哪里呢？
+Helen：Today, we are going to have a birthday party for my brother. 
+Helen: So, let's go.
+
+Tom: Welcome to my birthday party.
+Tom: Thank you very much.
+Tom: Oh, Thank you so much. I like them.
+Helen: Let me introduce my family to you.
+Helen: This is my grandmother, she is a farmer.
+Helen: This is my grandfather, he is a cook.
+Helen: This is my mom, she is an artist.
+Helen: This is my dad, he is a pilot.
+
+Tom: now, have a break. What do you like? Cold coffee or hot coffee?
+Tom: Oh, here you are.
+
+Tom: Today is not only my birthday. But also the Earth day.
+Tom: I have a secret to show, follow me.
+
+Tom: Here is the TP lab. Now the Earth is threatened by the "Dark planet". They are destroying everything.
+
+Helen: I want to protect the Earth with you. To be an Earth Guardian.

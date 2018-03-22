@@ -57,7 +57,7 @@ T: What is the color of the sea horse?
 T: Does it have tail? Is it long or short?
 T: Ok, now tell me in sentence. What does it look like?
 
-### 动画: 小睁着大眼睛望着学生
+### 动画: 小海马睁着大眼睛望着学生
 T: Oh, the baby sea horse want his mom. Can you let his mom back to him?
 T: You did a very good job.
 T: Now, we are on the way to find the heart of ocean. You can look outside through the window.
